@@ -1,0 +1,15 @@
+# NLP & Knowledge Graph
+spacy==3.7.4
+networkx==3.2.1
+
+# Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==4.9.3
+
+# Gemini LLM API
+google-generativeai==0.4.1
+
+# Optional (graph visualization, markdown support)
+matplotlib==3.8.4
+rich==13.7.1
