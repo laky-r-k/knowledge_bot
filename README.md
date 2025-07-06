@@ -8,3 +8,7 @@ data/satellite_facts.txt --> creates knowledge graph --> use llm to query (searc
 full system
 
 scrap the website ---> create knowldge graph ---> use llm to querry (langchain)
+
+download this too--
+
+python -m spacy download en_core_web_sm
