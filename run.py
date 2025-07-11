@@ -1,5 +1,4 @@
 # bot/run.py
-
 from bot.graph_builder import extract_triples
 from bot.visualize import visualize_kg
 from bot.chatbot import answer_query
