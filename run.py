@@ -1,24 +1,27 @@
-# bot/run.py
-from bot.graph_builder import extract_triples
-from bot.visualize import visualize_kg
-from bot.chatbot import answer_query
+# run_bot.py
 
-def main():
-    # Load data
-    with open("data/satellite_facts.txt", "r") as f:
-        text = f.read()
+from chatbot.gemini_chatbot import GeminiChatBot
+from kg_builder.spacy_kg_builder import SpaCyKGBuilder
 
-    # Build KG
-    triples = extract_triples(text)
-    G = visualize_kg(triples)
+# Step 1: Load and build the Knowledge Graph
+kg = SpaCyKGBuilder()
 
-    # Simple Chatbot
-    while True:
-        user_input = input("\nAsk: What does [Entity] do? (or type 'exit')\n> ")
-        if user_input.lower() == 'exit':
-            break
-        entity = user_input.strip().split()[-1]
-        print(answer_query(entity, G))
+with open("data/mosdac_scraped.txt", "r", encoding="utf-8") as f:
+    text = f.read()
 
-if __name__ == "__main__":
-    main()
+triples = kg.extract_triples(text)
+kg.build_graph(triples)
+
+# Step 2: Initialize chatbot with the KG
+bot = GeminiChatBot(kg_builder=kg)
+
+# Step 3: Run CLI loop
+print("🤖 Ask anything about satellites or MOSDAC (type 'exit' to quit)")
+
+while True:
+    query = input("🧑 You: ")
+    if query.lower() in ['exit', 'quit']:
+        break
+
+    response = bot.ask(query)
+    print("🤖 Bot:", response)
