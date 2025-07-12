@@ -26,13 +26,13 @@ class GeminiChatBot(CHATBOT):
                 kg_context = self.kg_builder.to_prompt_text(triples)
             except Exception as e:
                 kg_context = f"[KG Error] {e}"
-        print(kg_context)
+        print("these are facts from knowlege graph just to show you :",kg_context)
         # Get chat history (if context isn't passed explicitly)
         chat_context = context or self.get_recent_context()
         combined_context = f"{kg_context}\n{chat_context}".strip()
 
         prompt = f"""
-Use the following information to answer the user's question:
+Use the following information for more detailed and specific answering:
 
 {combined_context}
 
@@ -47,3 +47,4 @@ Bot:"""
 
         self.add_to_history(query, answer)
         return answer
+    
