@@ -1,12 +1,12 @@
 # run_bot.py
 
-from chatbot.gemini_chatbot import GeminiChatBot
-from kg_builder.spacy_kg_builder import SpaCyKGBuilder
+from chat_bot.gemini_chatbot import GeminiChatBot
+from kg_builder.kg_builder import SpaCyKGBuilder
 
 # Step 1: Load and build the Knowledge Graph
 kg = SpaCyKGBuilder()
 
-with open("data/mosdac_scraped.txt", "r", encoding="utf-8") as f:
+with open("data/mosdac_data.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
 triples = kg.extract_triples(text)

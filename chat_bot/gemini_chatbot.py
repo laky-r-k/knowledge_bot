@@ -1,12 +1,12 @@
 # chatbot/gemini_chatbot.py
 
 import google.generativeai as genai
-from base import CHATBOT
-from CONFIG.config import GEMINI_API_KEY
+from chat_bot.base import CHATBOT
+from chat_bot.CONFIG.config import GEMINI_API_KEY
 from typing import Optional
 
 class GeminiChatBot(CHATBOT):
-    def __init__(self, model_name: str = "models/gemini-1.5-pro", kg_builder: Optional[object] = None):
+    def __init__(self, model_name: str = "models/gemini-1.5-flash", kg_builder: Optional[object] = None):
         super().__init__()
         genai.configure(api_key=GEMINI_API_KEY)
         self.model = genai.GenerativeModel(model_name)
@@ -26,7 +26,7 @@ class GeminiChatBot(CHATBOT):
                 kg_context = self.kg_builder.to_prompt_text(triples)
             except Exception as e:
                 kg_context = f"[KG Error] {e}"
-
+        print(kg_context)
         # Get chat history (if context isn't passed explicitly)
         chat_context = context or self.get_recent_context()
         combined_context = f"{kg_context}\n{chat_context}".strip()

@@ -1,6 +1,6 @@
 # run_bot.py
 
-from gemini_chatbot import GeminiChatBot
+from chat_bot.gemini_chatbot import GeminiChatBot
 
 bot = GeminiChatBot()
 
