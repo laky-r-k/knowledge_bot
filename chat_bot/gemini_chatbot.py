@@ -19,20 +19,15 @@ class GeminiChatBot(CHATBOT):
         - chat memory (context)
         - Gemini LLM for response
         """
-        kg_context = ""
-        if use_kg and self.kg_builder:
-            try:
-                triples = self.kg_builder.search(query)
-                kg_context = self.kg_builder.to_prompt_text(triples)
-            except Exception as e:
-                kg_context = f"[KG Error] {e}"
-        print("these are facts from knowlege graph just to show you :",kg_context)
+        kg_context=self.search_kg(query,use_kg)
+        
+        
         # Get chat history (if context isn't passed explicitly)
         chat_context = context or self.get_recent_context()
         combined_context = f"{kg_context}\n{chat_context}".strip()
 
-        prompt = f"""
-Use the following information for more detailed and specific answering:
+        prompt = f""" you are chat bot for MODSAC website.
+use the facts to only enhance the depth of answer:
 
 {combined_context}
 
@@ -47,4 +42,27 @@ Bot:"""
 
         self.add_to_history(query, answer)
         return answer
-    
+    def search_kg(self,query:str,use_kg:bool):
+        prompt=f"""system: you are chat bot for MODSAC website ,just return keywords from the query given for searching on kg ;query:{query}"""
+        try:
+            response = self.model.generate_content(prompt)#returns keywords from the query to search from kg
+            answer = response.text.strip()
+        except Exception as e:
+            answer = f"[LLM Error] {e}"
+        
+        answer=answer.split(",")
+        print(answer)
+        kg_context = ""
+        if use_kg and self.kg_builder:
+            try:
+                for facts in answer:
+                    triples = self.kg_builder.search(facts)
+                    
+                    kg_context += self.kg_builder.to_prompt_text(triples)
+            except Exception as e:
+                kg_context = f"[KG Error] {e}"
+        print("context:",kg_context)
+        return kg_context
+        
+        
+        
