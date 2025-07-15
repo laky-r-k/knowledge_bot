@@ -20,7 +20,11 @@ load_dotenv()
 if __name__ == "__main__":
     logger.info("Starting scraper")
     scraper = MosdacScraper()
-    scraper.crawl("https://www.mosdac.gov.in")
+    data = scraper.crawl("https://www.mosdac.gov.in")
     output_path = os.getenv("SCRAPER_OUTPUT_PATH", "data/mosdac_data.txt")
     scraper.save_output(output_path)
-    logger.info("Scraper completed")
+    if os.path.exists(output_path) and os.path.getsize(output_path) > 0:
+        logger.info("Scraper completed successfully")
+    else:
+        logger.error("Scraper failed to produce valid output")
+        raise RuntimeError("No valid data scraped. Check logs for errors.")
