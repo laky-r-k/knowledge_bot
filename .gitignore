@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+
+# Data (optional, depending on whether you want to commit data files)
+# data/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
