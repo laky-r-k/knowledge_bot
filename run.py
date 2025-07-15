@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, jsonify, g
 from flask_cors import CORS
 from chat_bot.gemini_chatbot import GeminiChatBot
 from kg_builder.kg_builder import SpaCyKGBuilder
@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 load_dotenv()
 
 app = Flask(__name__, template_folder="web/templates", static_folder="web/static")
-CORS(app)  # Enable CORS for frontend-backend communication
+CORS(app)
 
 # Initialize knowledge graph and chatbot
 logger.info("Starting chatbot setup")
@@ -41,7 +41,11 @@ else:
     triples = kg.extract_triples(text)
     kg.build_graph(triples)
 
-bot = GeminiChatBot(kg_builder=kg)
+@app.before_request
+def before_request():
+    """Initialize chatbot for each request."""
+    g.bot = GeminiChatBot(kg_builder=kg)
+    logger.info("Initialized chatbot for request")
 
 @app.route("/")
 def index():
@@ -58,13 +62,25 @@ def ask():
         query = data.get("query", "").strip()
         if not query:
             logger.warning("Empty query received")
-            return jsonify({"response": "Please enter a query.", "status": "error"}), 400
-        response = bot.ask(query)
+            return jsonify({"response": "Please enter a question.", "status": "error", "suggestions": []}), 400
+        response = g.bot.ask(query)
         logger.info(f"Query processed: {query}")
         return jsonify(response)
     except Exception as e:
         logger.error(f"API Error: {e}")
-        return jsonify({"response": f"[API Error] {e}", "status": "error"}), 500
+        return jsonify({"response": "Sorry, something went wrong. Please try again.", "status": "error", "suggestions": []}), 500
+
+@app.route("/api/clear", methods=["POST"])
+def clear():
+    """Clear chat history."""
+    logger.info("Received API request to /api/clear")
+    try:
+        g.bot.clear_history()
+        logger.info("Chat history cleared")
+        return jsonify({"response": "Chat history cleared.", "status": "success"})
+    except Exception as e:
+        logger.error(f"Clear History Error: {e}")
+        return jsonify({"response": "Failed to clear chat history.", "status": "error"}), 500
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0", port=5000)

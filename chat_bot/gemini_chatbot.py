@@ -1,6 +1,6 @@
 import google.generativeai as genai
 from chat_bot.base import CHATBOT
-from typing import Optional, Dict
+from typing import Optional, Dict, List
 from dotenv import load_dotenv
 import os
 import logging
@@ -32,6 +32,11 @@ class GeminiChatBot(CHATBOT):
         self.kg_builder = kg_builder
         logger.info(f"Initialized GeminiChatBot with model {model_name}")
 
+    def clear_history(self) -> None:
+        """Clear the chat history."""
+        logger.info("Clearing chat history")
+        self.history = []
+
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
     def ask(self, query: str, context: str = "", use_kg: bool = True) -> Dict[str, str]:
         """
@@ -39,7 +44,7 @@ class GeminiChatBot(CHATBOT):
         - optional KG search
         - chat memory (context)
         - Gemini LLM for response
-        Returns: {"response": str, "status": str}
+        Returns: {"response": str, "status": str, "suggestions": List[str]}
         """
         logger.info(f"Processing query: {query}")
         try:
@@ -47,9 +52,9 @@ class GeminiChatBot(CHATBOT):
             chat_context = context or self.get_recent_context()
             combined_context = f"{kg_context}\n{chat_context}".strip()
 
-            prompt = f"""You are a chatbot for the MOSDAC website.
-Use the facts to enhance the depth of the answer:
+            prompt = f"""You are a professional chatbot for the MOSDAC website, a database for scientific and technical information on meteorology and oceanography. Provide concise, accurate, and engaging answers. Use the provided facts to enhance your response, but keep it natural and user-friendly. If the query is unclear, ask for clarification politely.
 
+Facts:
 {combined_context}
 
 User: {query}
@@ -58,11 +63,14 @@ Bot:"""
             response = self.model.generate_content(prompt)
             answer = response.text.strip()
             self.add_to_history(query, answer)
+
+            # Generate suggested queries
+            suggestions = self.generate_suggestions(query)
             logger.info("Query processed successfully")
-            return {"response": answer, "status": "success"}
+            return {"response": answer, "status": "success", "suggestions": suggestions}
         except Exception as e:
             logger.error(f"LLM Error: {e}")
-            return {"response": f"[LLM Error] {e}", "status": "error"}
+            return {"response": f"Sorry, I couldn't process your request due to an error. Please try again.", "status": "error", "suggestions": []}
 
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
     def search_kg(self, query: str, use_kg: bool) -> str:
@@ -71,7 +79,7 @@ Bot:"""
         if not use_kg or not self.kg_builder:
             return ""
 
-        prompt = f"""System: You are a chatbot for the MOSDAC website. Extract keywords from the query for KG search.
+        prompt = f"""System: You are a chatbot for the MOSDAC website. Extract up to 3 relevant keywords from the query for KG search.
 Query: {query}
 Return: Comma-separated keywords"""
         try:
@@ -80,21 +88,33 @@ Return: Comma-separated keywords"""
             if not keywords:
                 logger.warning("No keywords extracted from query")
                 return ""
-            keywords = keywords.split(",")
+            keywords = [k.strip() for k in keywords.split(",") if k.strip()]
             logger.info(f"Extracted keywords: {keywords}")
         except Exception as e:
             logger.error(f"Keyword Extraction Error: {e}")
-            return f"[LLM Error] {e}"
+            return ""
 
         kg_context = ""
         try:
             for keyword in keywords:
-                keyword = keyword.strip()
-                if keyword:
-                    triples = self.kg_builder.search(keyword)
-                    kg_context += self.kg_builder.to_prompt_text(triples)
+                triples = self.kg_builder.search(keyword)
+                kg_context += self.kg_builder.to_prompt_text(triples)
             logger.info("KG search completed")
         except Exception as e:
             logger.error(f"KG Error: {e}")
-            kg_context = f"[KG Error] {e}"
+            kg_context = ""
         return kg_context
+
+    def generate_suggestions(self, query: str) -> List[str]:
+        """Generate suggested follow-up queries based on the current query."""
+        logger.info(f"Generating suggestions for query: {query}")
+        try:
+            prompt = f"""System: You are a chatbot for the MOSDAC website. Based on the user query, suggest 3 relevant follow-up questions related to MOSDAC, satellites, or meteorology. Return as a comma-separated list.
+Query: {query}
+Suggestions:"""
+            response = self.model.generate_content(prompt)
+            suggestions = [s.strip() for s in response.text.split(",") if s.strip()]
+            return suggestions[:3]
+        except Exception as e:
+            logger.error(f"Suggestion Generation Error: {e}")
+            return ["What is MOSDAC?", "Tell me about INSAT-3D", "How does MOSDAC collect weather data?"]
