@@ -2,11 +2,12 @@ from flask import Flask, render_template, jsonify, request, g
 from flask_cors import CORS
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
-from chat_bot.gemini_chatbot import GeminiChatBot
-from kg_builder.kg_builder import SpaCyKGBuilder
+from bot.chat_bot.gemini_chatbot import GeminiChatBot
+from bot.kg_builder.kg_builder import SpaCyKGBuilder
 from dotenv import load_dotenv
 import os
 import logging
+import time
 
 # Configure logging
 logging.basicConfig(
@@ -22,7 +23,7 @@ logger = logging.getLogger(__name__)
 # Load environment variables
 load_dotenv()
 
-app = Flask(__name__, template_folder="web/templates", static_folder="web/static")
+app = Flask(__name__, template_folder="../frontend/templates", static_folder="../frontend/static")
 CORS(app)
 
 # Initialize rate limiter

@@ -1,5 +1,5 @@
 import os
-from scraper_crawler.scraper import MosdacScraper
+from bot.scraper_crawler.scraper import MosdacScraper
 from dotenv import load_dotenv
 import logging
 
