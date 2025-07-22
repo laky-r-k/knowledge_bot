@@ -3,36 +3,80 @@
 import google.generativeai as genai
 from chat_bot.base import CHATBOT
 from chat_bot.CONFIG.config import GEMINI_API_KEY
-from typing import Optional
+from typing import Optional, List, Dict
+from langchain_core.runnables import RunnableLambda, RunnableMap
 
 class GeminiChatBot(CHATBOT):
     def __init__(self, model_name: str = "models/gemini-1.5-flash", kg_builder: Optional[object] = None):
         super().__init__()
         genai.configure(api_key=GEMINI_API_KEY)
         self.model = genai.GenerativeModel(model_name)
-        self.kg_builder = kg_builder  # Pass your KG builder from outside
+        self.kg_builder = kg_builder
+
+        # Define LangChain RAG chain
+        self.rag_chain = (
+            RunnableMap({"query": lambda x: x})
+            | RunnableLambda(self.extract_keywords)
+            | RunnableLambda(self.search_kg_triples)
+            | RunnableLambda(self.generate_response)
+        )
 
     def ask(self, query: str, context: str = "", use_kg: bool = True) -> str:
-        """
-        Answer a query using:
-        - optional KG search
-        - chat memory (context)
-        - Gemini LLM for response
-        """
-        kg_context=self.search_kg(query,use_kg)
-        
-        
-        # Get chat history (if context isn't passed explicitly)
-        chat_context = context or self.get_recent_context()
-        combined_context = f"{kg_context}\n{chat_context}".strip()
+        if use_kg and self.kg_builder:
+            return self.rag_chain.invoke(query)
+        else:
+            prompt = f"{context}\n\nUser: {query}\nBot:"
+            response = self.model.generate_content(prompt)
+            return response.text.strip()
 
-        prompt = f""" you are chat bot for MODSAC website.
-use the facts to only enhance the depth of answer:
+    def extract_keywords(self, input_dict: Dict) -> Dict:
+        query = input_dict["query"]
+        prompt = f"""Extract only important keywords for KG search from the following query.
+Return comma-separated values. No explanation.
 
-{combined_context}
+Query: {query}
+Keywords:"""
+
+        try:
+            response = self.model.generate_content(prompt)
+            keywords = [kw.strip() for kw in response.text.strip().split(",") if kw.strip()]
+        except Exception as e:
+            keywords = []
+
+        return {"query": query, "keywords": keywords}
+
+    def search_kg_triples(self, input_dict: Dict) -> Dict:
+        query = input_dict["query"]
+        keywords = input_dict["keywords"]
+
+        kg_context = ""
+        try:
+            for kw in keywords:
+                triples = self.kg_builder.search(kw)
+                if triples:
+                    kg_context += self.kg_builder.to_prompt_text(triples) + "\n"
+        except Exception as e:
+            kg_context = f"[KG search error] {e}"
+
+        return {"query": query, "context": kg_context.strip()}
+
+    def generate_response(self, input_dict: Dict) -> str:
+        query = input_dict["query"]
+        context = input_dict["context"]
+        history = self.get_recent_context()
+
+        full_context = "\n".join(filter(None, [context, history]))
+
+        prompt = f"""You are a helpful assistant for the MODSAC website.
+You have access to the following related facts from a knowledge graph:
+
+{full_context}
+
+Use these facts to improve the accuracy or depth of your answer if relevant — but feel free to include other general knowledge if needed. Do not hallucinate technical facts.
 
 User: {query}
 Bot:"""
+
 
         try:
             response = self.model.generate_content(prompt)
@@ -42,27 +86,3 @@ Bot:"""
 
         self.add_to_history(query, answer)
         return answer
-    def search_kg(self,query:str,use_kg:bool):
-        prompt=f"""system: you are chat bot for MODSAC website ,just return keywords from the query given for searching on kg ;query:{query}"""
-        try:
-            response = self.model.generate_content(prompt)#returns keywords from the query to search from kg
-            answer = response.text.strip()
-        except Exception as e:
-            answer = f"[LLM Error] {e}"
-        
-        answer=answer.split(",")
-        print(answer)
-        kg_context = ""
-        if use_kg and self.kg_builder:
-            try:
-                for facts in answer:
-                    triples = self.kg_builder.search(facts)
-                    
-                    kg_context += self.kg_builder.to_prompt_text(triples)
-            except Exception as e:
-                kg_context = f"[KG Error] {e}"
-        print("context:",kg_context)
-        return kg_context
-        
-        
-        
