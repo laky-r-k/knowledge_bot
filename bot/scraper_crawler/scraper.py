@@ -1,29 +1,33 @@
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
-from scraper_crawler.base import BaseScraper
+from .base import BaseScraper
 import os
+from dotenv import load_dotenv
 import time
 from typing import List, Tuple
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 import logging
-from config import CONFIG
 
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
     handlers=[
-        logging.FileHandler(CONFIG["LOG_FILE"]),
+        logging.FileHandler("logs/app.log"),
         logging.StreamHandler()
     ]
 )
 logger = logging.getLogger(__name__)
 
+# Load environment variables
+load_dotenv()
+
 class MosdacScraper(BaseScraper):
     def __init__(self):
         self.visited = set()
         self.data: List[Tuple[str, str]] = []
+        self.max_depth = int(os.getenv("CRAWL_DEPTH", 1))
         logger.info("Initialized MosdacScraper")
 
     @retry(
@@ -44,7 +48,9 @@ class MosdacScraper(BaseScraper):
             logger.error(f"Failed to fetch {url}: {e}")
             raise
 
-    def crawl(self, base_url: str = CONFIG["BASE_URL"], depth: int = CONFIG["CRAWL_DEPTH"]) -> List[Tuple[str, str]]:
+    def crawl(self, base_url: str = "https://www.mosdac.gov.in", depth: int = None) -> List[Tuple[str, str]]:
+        if depth is None:
+            depth = self.max_depth
         logger.info(f"Starting crawl at {base_url} with depth {depth}")
         self._crawl_recursive(base_url, base_url, 0, depth)
         return self.data
@@ -61,12 +67,7 @@ class MosdacScraper(BaseScraper):
             self.data.append((current_url, cleaned_text))
             self.visited.add(current_url)
             logger.info(f"✔ Crawled: {current_url}")
-            soup = BeautifulSoup(html, "html.parser")
-            try:
-                soup = BeautifulSoup(html, "lxml")
-                logger.info("Using lxml parser")
-            except Exception as e:
-                logger.warning(f"lxml parser unavailable, using html.parser: {e}")
+            soup = BeautifulSoup(html, "lxml")
             for link in soup.find_all("a", href=True):
                 full_url = urljoin(current_url, link['href'])
                 if urlparse(full_url).netloc == urlparse(base_url).netloc:
@@ -78,12 +79,7 @@ class MosdacScraper(BaseScraper):
     def extract_text(self, html: str) -> str:
         logger.info("Extracting text from HTML")
         try:
-            soup = BeautifulSoup(html, "html.parser")
-            try:
-                soup = BeautifulSoup(html, "lxml")
-                logger.info("Using lxml parser for text extraction")
-            except Exception as e:
-                logger.warning(f"lxml parser unavailable for text extraction, using html.parser: {e}")
+            soup = BeautifulSoup(html, "lxml")
             for tag in soup(["script", "style", "noscript"]):
                 tag.decompose()
             return soup.get_text(separator="\n", strip=True)
@@ -91,7 +87,7 @@ class MosdacScraper(BaseScraper):
             logger.error(f"Text Extraction Error: {e}")
             return ""
 
-    def save_output(self, output_path: str = CONFIG["SCRAPER_OUTPUT_PATH"]) -> None:
+    def save_output(self, output_path: str = os.getenv("SCRAPER_OUTPUT_PATH", "data/mosdac_data.txt")) -> None:
         logger.info(f"Saving output to {output_path}")
         try:
             os.makedirs(os.path.dirname(output_path), exist_ok=True)

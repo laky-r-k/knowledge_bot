@@ -1,13 +1,14 @@
 from abc import ABC, abstractmethod
 from typing import List, Dict
 
-class CHATBOT(ABC):
+class BaseChatBot(ABC):
     """Abstract base class for chatbots."""
-    def __init__(self):
+    def __init__(self, kg_builder=None):
         self.history: List[Dict[str, str]] = []
+        self.kg_builder = kg_builder
 
     @abstractmethod
-    def ask(self, query: str, context: str = "") -> dict:
+    def ask(self, query: str) -> dict:
         """Ask the chatbot with optional context and return response as a dictionary."""
         pass
 
@@ -21,3 +22,7 @@ class CHATBOT(ABC):
         for turn in self.history[-turns:]:
             prompt += f"User: {turn['user']}\nBot: {turn['bot']}\n"
         return prompt
+
+    def clear_history(self) -> None:
+        """Clear the chat history."""
+        self.history = []

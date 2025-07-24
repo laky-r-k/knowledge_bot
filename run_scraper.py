@@ -1,4 +1,7 @@
+import sys
 import os
+# Add project root to sys.path
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 from bot.scraper_crawler.scraper import MosdacScraper
 from dotenv import load_dotenv
 import logging

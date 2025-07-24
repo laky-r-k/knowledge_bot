@@ -1,3 +1,9 @@
+import sys
+import os
+# Add project root to sys.path
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
 from flask import Flask, render_template, jsonify, request, g
 from flask_cors import CORS
 from flask_limiter import Limiter
@@ -5,7 +11,6 @@ from flask_limiter.util import get_remote_address
 from bot.chat_bot.gemini_chatbot import GeminiChatBot
 from bot.kg_builder.kg_builder import SpaCyKGBuilder
 from dotenv import load_dotenv
-import os
 import logging
 import time
 
@@ -36,7 +41,7 @@ limiter = Limiter(
 # Initialize knowledge graph
 logger.info("Starting chatbot setup")
 kg = SpaCyKGBuilder()
-graph_path = "data/kg_graph.gpickle"
+graph_path = os.getenv("KG_GRAPH_PATH", "data/kg_graph.gpickle")
 data_path = os.getenv("SCRAPER_OUTPUT_PATH", "data/mosdac_data.txt")
 
 if os.path.exists(graph_path):
