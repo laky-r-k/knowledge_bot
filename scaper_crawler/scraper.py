@@ -16,6 +16,30 @@ class MosdacScraper(BaseScraper):
         self._crawl_recursive(base_url, base_url, 0, depth)
         return self.data
 
+    def crawl_list(self, urls: List[str]) -> List[Tuple[str, str]]:
+        """Scrape each URL in the list individually (no recursive crawling)."""
+        for url in urls:
+            if url in self.visited:
+                continue
+            try:
+                response = requests.get(url, timeout=10)
+                if response.status_code != 200:
+                    print(f"⚠ Skipped (HTTP {response.status_code}): {url}")
+                    continue
+
+                html = response.text
+                cleaned_text = self.extract_text(html)
+                self.data.append((url, cleaned_text))
+                self.visited.add(url)
+                print(f"✔ Scraped: {url}")
+
+                time.sleep(0.5)  # Polite delay between requests
+
+            except Exception as e:
+                print(f"⚠ Failed to scrape {url}: {e}")
+
+        return self.data
+
     def _crawl_recursive(self, current_url: str, base_url: str, curr_depth: int, max_depth: int):
         if current_url in self.visited or curr_depth > max_depth:
             return
@@ -62,10 +86,23 @@ class MosdacScraper(BaseScraper):
             for url, content in self.data:
                 f.write(f"\n--- URL: {url} ---\n{content}\n")
         print(f"📁 Output saved to {output_path}")
-# run_scraper.py
 
 
+# ============================================================
+# 🔗 PUT YOUR FACULTY PAGE URLs HERE
+# ============================================================
+FACULTY_URLS = [
+    # "https://yourcollege.edu/faculty/professor-1",
+    # "https://yourcollege.edu/faculty/professor-2",
+    # "https://yourcollege.edu/faculty/professor-3",
+    # "https://yourcollege.edu/faculty/professor-4",
+]
 
-scraper = MosdacScraper()
-scraper.crawl("https://www.mosdac.gov.in", depth=1)
-scraper.save_output("data/mosdac_data.txt")
+if __name__ == "__main__":
+    scraper = MosdacScraper()
+
+    if FACULTY_URLS:
+        scraper.crawl_list(FACULTY_URLS)
+        scraper.save_output("data/faculty_data.txt")
+    else:
+        print("⚠ No URLs in FACULTY_URLS list. Add your faculty page URLs and re-run.")

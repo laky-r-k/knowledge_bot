@@ -6,17 +6,19 @@ from kg_builder.kg_builder import SpaCyKGBuilder
 # Step 1: Load and build the Knowledge Graph
 kg = SpaCyKGBuilder()
 
-with open("data/mosdac_data.txt", "r", encoding="utf-8") as f:
+with open("data/faculty_data.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
 triples = kg.extract_triples(text)
 kg.build_graph(triples)
 
+print(f"📊 Knowledge Graph: {len(triples)} triples extracted")
+
 # Step 2: Initialize chatbot with the KG
 bot = GeminiChatBot(kg_builder=kg)
 
 # Step 3: Run CLI loop
-print("🤖 Ask anything about satellites or MOSDAC (type 'exit' to quit)")
+print("🤖 Ask anything about the department faculty (type 'exit' to quit)")
 
 while True:
     query = input("🧑 You: ")
