@@ -7,7 +7,7 @@ from typing import Optional, List, Dict
 from langchain_core.runnables import RunnableLambda, RunnableMap
 
 class GeminiChatBot(CHATBOT):
-    def __init__(self, model_name: str = "models/gemini-1.5-flash", kg_builder: Optional[object] = None):
+    def __init__(self, model_name: str = "models/gemini-2.5-flash", kg_builder: Optional[object] = None):
         super().__init__()
         genai.configure(api_key=GEMINI_API_KEY)
         self.model = genai.GenerativeModel(model_name)
@@ -67,7 +67,7 @@ Keywords:"""
 
         full_context = "\n".join(filter(None, [context, history]))
 
-        prompt = f"""You are a helpful assistant for the MODSAC website.
+        prompt = f"""You are a helpful assistant for the department faculty directory.
 You have access to the following related facts from a knowledge graph:
 
 {full_context}

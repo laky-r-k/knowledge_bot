@@ -1,0 +1,977 @@
+[
+  [
+    "Dr. Gowrishankar",
+    "designation",
+    "Professor"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "email",
+    "gowrishankar.cse@bmsce.ac.in"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "affiliated_to",
+    "BMS College of Engineering"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "joined_as",
+    "Lecturer"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "joined_year",
+    "1997"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "joined_department",
+    "Computer Science & Engineering"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "promoted_to",
+    "Assistant Professor in 2004"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "promoted_to",
+    "Professor in 2009"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "awarded_phd_from",
+    "Visvesvarya Technological University"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "phd_award_year",
+    "2009"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "phd_thesis_title",
+    "Intelligent Vertical Handoff Mechanism for Interworking of HeterogeneousMobile Networks for Pervasive Computing"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "served_as",
+    "Head of Department"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "hod_department",
+    "Computer Science & Engineering"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "hod_department",
+    "Information Science & Engineering"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "hod_tenure_years",
+    "8"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "instrumental_in_starting",
+    "VTU Research Center at Department CS & E"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "served_as_council_member",
+    "Academic Council (BMSCE)"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "academic_council_terms",
+    "3"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "served_as_chairman",
+    "Board of Studies (CS & E and IS & E cluster)"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "bos_chairman_terms",
+    "2"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "served_as_chairman",
+    "Board of Examiner (CS & E and IS & E)"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "boe_chairman_terms",
+    "1"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "guided_phd_students_count",
+    "2"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "served_as",
+    "Visiting Professor"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "visiting_professor_university",
+    "University of Alabama, Huntsville (UAH)"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "visiting_professor_department",
+    "Computer Science"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "visiting_professor_year",
+    "2015"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "publications_count",
+    "45+"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "publication_medium",
+    "Internationally reputed Journals & conferences"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "worked_as",
+    "Coordinator Campus wide Network (TEQIP-I)"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "served_as",
+    "Nodal Officer (Academic) (TEQIP-II)"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "current_role",
+    "Chief Coordinator for Data Center & Campus wide Network"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "current_department",
+    "Computer Science & Engineering"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "has_degree",
+    "Ph.D"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "phd_field",
+    "Wireless Networks"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "phd_awarded_by",
+    "Visvesvarya Technological University"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "phd_institution",
+    "B.M.S. College of Engineering"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "phd_passed_year",
+    "2008"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "phd_program_type",
+    "PartTime"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "has_degree",
+    "M.Tech"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "mtech_field",
+    "Computer Science & Engineering"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "mtech_awarded_by",
+    "Visvesvarya Technological University"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "mtech_institution",
+    "B.M.S. College of Engineering"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "mtech_passed_year",
+    "2001"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "mtech_program_type",
+    "FullTime"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "mtech_achievement",
+    "University Distinction"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "mtech_rank",
+    "3rd Rank"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "has_degree",
+    "B.E"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "be_field",
+    "Computer Science & Engineering"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "be_awarded_by",
+    "Mysore University"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "be_institution",
+    "Malnad College of Engineering"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "be_passed_year",
+    "1996"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "be_program_type",
+    "FullTime"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "published_paper_title",
+    "Fuzzy Logic Based Call Admission Control for Next Generation Wireless Networks"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "published_paper_type",
+    "Journal"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "published_paper_date",
+    "01-08-2014"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "published_paper_co_author",
+    "Mahesh G"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "published_paper_co_author",
+    "Yeshwanth S"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "researches",
+    "Wireless Networks"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "researches",
+    "Mobile Networks"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "researches",
+    "Pervasive Computing"
+  ],
+  [
+    "Dr. Gowrishankar",
+    "researches",
+    "Fuzzy Logic"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "full_name",
+    "Dr. M Dakshayini"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "designation",
+    "Professor & HOD"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "email",
+    "dakshayini.ise@bmsce.ac.in"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "department",
+    "Information Science and engineering"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "affiliated_to",
+    "B M S College of Engineering"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "college_acronym",
+    "BMSCE"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "located_in",
+    "Bengaluru, Karnataka, India"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "teaching_experience_years",
+    "26"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "phd_guided_awarded_count",
+    "5"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "phd_guiding_presently_count",
+    "1"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "activity",
+    "delivered expert lectures at various Seminars/Workshops"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "role",
+    "BOS/BOE member for various Institutions"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "role",
+    "NBA Evaluator appointed from NBA, India"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "journal_publications_count",
+    "more than 50"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "international_conference_publications_count",
+    "26"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "national_conference_publications_count",
+    "5"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "published_patent_title",
+    "Co-operative Proxy Servers Architecture for Video on Demand and Webservers using Stochastic Model based Client Request Management Approaches to achieve reduced Client Waiting Time"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "patent_reference_number",
+    "3390/CHE/2010A"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "qualified_with",
+    "Ph.D."
+  ],
+  [
+    "Dr. M Dakshayini",
+    "phd_degree_title",
+    "Computer Science and Engineering"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "phd_specialization_area",
+    "computer networks"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "phd_awarded_from",
+    "Dr.MGR University"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "phd_awarded_year",
+    "2010"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "phd_program_type",
+    "PartTime"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "qualified_with",
+    "M.E."
+  ],
+  [
+    "Dr. M Dakshayini",
+    "me_degree_title",
+    "Computer Science and Engineering"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "me_awarded_from",
+    "B.M.S.C.E/Bangalore University"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "me_awarded_year",
+    "2000"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "me_program_type",
+    "FullTime"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "qualified_with",
+    "B.E."
+  ],
+  [
+    "Dr. M Dakshayini",
+    "be_degree_title",
+    "Computer Science and Engineering"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "be_awarded_from",
+    "S J C I T/Bangalore University"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "be_awarded_year",
+    "1993"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "be_program_type",
+    "FullTime"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "researches",
+    "Computer networks"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "researches",
+    "Computer communications"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "researches",
+    "Algorithms"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "researches",
+    "Cloud computing"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "researches",
+    "Ad-hoc Networks"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "researches",
+    "IoT"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "researches",
+    "Data Sciences"
+  ],
+  [
+    "Dr. M Dakshayini",
+    "awarded",
+    "Best Paper Award for \"Regression Based AGRO Forecasting Model\" at IEMIS2018"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "designation",
+    "Associate Professor"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "department",
+    "AI&ML"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "affiliated_to",
+    "BMS College of Engineering"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "email",
+    "monika.mel@bmsce.ac.in"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "experience_years",
+    "19+"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "previous_role",
+    "Software Engineer at Birlasoft"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "heads_center",
+    "BSN Center of Excellence in AI and ML"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "heads_team",
+    "Vahini (social media team)"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "qualified_with",
+    "Ph.D. in Computer Science and Engineering (Machine Learning)"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "awarded_phd_from",
+    "RNSIT / VTU"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "phd_awarded_year",
+    "2020"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "phd_program_type",
+    "PartTime"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "qualified_with",
+    "M.Tech in Computer Science and Engineering"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "awarded_mtech_from",
+    "RNSIT / VTU"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "mtech_awarded_year",
+    "2011"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "mtech_program_type",
+    "FullTime"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "qualified_with",
+    "B.E. in Computer Science and Engineering"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "awarded_be_from",
+    "BNMIT / VTU"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "be_awarded_year",
+    "2007"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "be_program_type",
+    "FullTime"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "researches",
+    "AI and ML"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "teaches_area",
+    "Computer Science"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "teaches_area",
+    "AI&ML"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "courses_taught_count",
+    "18+"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "guided_projects",
+    "Undergraduate"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "guided_projects",
+    "Postgraduate"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "publications_count",
+    "30+"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "patents_count_indian",
+    "5"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "patents_count_australian",
+    "1"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "patents_field",
+    "AI and ML"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "collaborates_with",
+    "Consultancies"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "role",
+    "Journal Reviewer"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "role",
+    "Speaker at technical symposiums"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "role",
+    "Speaker at industry webinars"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "member_of",
+    "IEEE"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "member_of",
+    "ACM"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "member_of",
+    "ISTE"
+  ],
+  [
+    "Dr. Monika Puttaramaiah",
+    "member_of",
+    "IAENG"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "designation",
+    "Associate Professor & HOD"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "department",
+    "Machine Learning"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "affiliated_to",
+    "B.M.S. College of Engineering"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "email",
+    "sandeep.mel@bmsce.ac.in"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "has_degree",
+    "B.Tech in Information Technology"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "awarded_bachelor_from",
+    "JNTU Hyderabad"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "bachelor_award_year",
+    "2007"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "has_degree",
+    "M.Tech in Software Engineering"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "awarded_master_from",
+    "Andhra University"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "master_award_year",
+    "2009"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "has_degree",
+    "Ph.D. in Data Privacy"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "awarded_phd_from",
+    "Andhra University"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "phd_award_year",
+    "2015"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "phd_field_of_study",
+    "Computer Science and Systems Engineering"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "researches",
+    "Neural Networks"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "researches",
+    "Deep Learning"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "researches",
+    "IOT"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "researches",
+    "Formal Verification Techniques for security protocols"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "researches",
+    "Data Engineering"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "researches",
+    "Software Engineering"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "researches",
+    "AI"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "worked_as",
+    "JRF Fellow"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "jrf_fellowship_period",
+    "2010 to 2013"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "jrf_fellowship_location",
+    "Andhra University"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "jrf_fellowship_project",
+    "DST SERB Project"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "worked_as",
+    "SRF Fellow"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "srf_fellowship_period",
+    "2010 to 2013"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "srf_fellowship_location",
+    "Andhra University"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "srf_fellowship_project",
+    "DST SERB Project"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "executes_sponsored_project_worth",
+    "52.17 Lakhs"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "project_sponsor",
+    "Industry"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "project_sponsor",
+    "Ministry of Education, Govt. of India"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "project_sponsor",
+    "ARTPARK, IISc"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "chapter_advisor_for",
+    "BMSCE IEEE Computer Society Chapter, Bangalore Section"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "publication_count",
+    "18"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Physics-informed neural network modeling of ternary hybrid nanofluid flow over an inclined wavy surface"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Multimodal AI for Audio and Video Conversion for ISL Using Federated learning"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Fine-Tuning Large Language Models for Task Specific Data"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Crime Scene Analysis for News Headline Generation"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Experimental Evaluation of Reinforcement Learning Algorithms"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Data augmented Approach to Optimizing Asynchronous Actor-Critic Methods"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "FDMCA: A Novel Authentication Technique using Face Detection and Gaze-based Morse Code Entry"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Code quality improvement for Intel Windows Graphics Driver"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Friend's recommendation on social media using different algorithms of machine learning"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Recommendations in social network using link prediction technique"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Blockchain-Based Solution for Proof of Pick-up of a Physical Asset"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Learning semantic Image attributes using Image recognition and knowledge graph embeddings"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "New Fusion Algorithm Provides an Alternative Approach to Robotic Path Planning"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Augmented Random Search for Quadcopter Control: An alternative to Reinforcement Learning"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Survey on Authentication Techniques for web applications"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Email Authorship Attribution"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Recent Findings in Intelligent Computing Techniques"
+  ],
+  [
+    "Dr. Sandeep Varma N",
+    "published",
+    "Verification in Privacy Preserving Data Publishing"
+  ]
+]

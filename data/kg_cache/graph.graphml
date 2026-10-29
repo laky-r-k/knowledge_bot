@@ -1,0 +1,1000 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="Dr. Gowrishankar">
+  <data key="d0">Dr. Gowrishankar</data>
+</node>
+<node id="Professor">
+  <data key="d0">Professor</data>
+</node>
+<node id="gowrishankar.cse@bmsce.ac.in">
+  <data key="d0">gowrishankar.cse@bmsce.ac.in</data>
+</node>
+<node id="BMS College of Engineering">
+  <data key="d0">BMS College of Engineering</data>
+</node>
+<node id="Lecturer">
+  <data key="d0">Lecturer</data>
+</node>
+<node id="1997">
+  <data key="d0">1997</data>
+</node>
+<node id="Computer Science &amp; Engineering">
+  <data key="d0">Computer Science &amp; Engineering</data>
+</node>
+<node id="Assistant Professor in 2004">
+  <data key="d0">Assistant Professor in 2004</data>
+</node>
+<node id="Professor in 2009">
+  <data key="d0">Professor in 2009</data>
+</node>
+<node id="Visvesvarya Technological University">
+  <data key="d0">Visvesvarya Technological University</data>
+</node>
+<node id="2009">
+  <data key="d0">2009</data>
+</node>
+<node id="Intelligent Vertical Handoff Mechanism for Interworking of HeterogeneousMobile Networks for Pervasive Computing">
+  <data key="d0">Intelligent Vertical Handoff Mechanism for Interworking of HeterogeneousMobile Networks for Pervasive Computing</data>
+</node>
+<node id="Head of Department">
+  <data key="d0">Head of Department</data>
+</node>
+<node id="Information Science &amp; Engineering">
+  <data key="d0">Information Science &amp; Engineering</data>
+</node>
+<node id="8">
+  <data key="d0">8</data>
+</node>
+<node id="VTU Research Center at Department CS &amp; E">
+  <data key="d0">VTU Research Center at Department CS &amp; E</data>
+</node>
+<node id="Academic Council (BMSCE)">
+  <data key="d0">Academic Council (BMSCE)</data>
+</node>
+<node id="3">
+  <data key="d0">3</data>
+</node>
+<node id="Board of Studies (CS &amp; E and IS &amp; E cluster)">
+  <data key="d0">Board of Studies (CS &amp; E and IS &amp; E cluster)</data>
+</node>
+<node id="2">
+  <data key="d0">2</data>
+</node>
+<node id="Board of Examiner (CS &amp; E and IS &amp; E)">
+  <data key="d0">Board of Examiner (CS &amp; E and IS &amp; E)</data>
+</node>
+<node id="1">
+  <data key="d0">1</data>
+</node>
+<node id="Visiting Professor">
+  <data key="d0">Visiting Professor</data>
+</node>
+<node id="University of Alabama, Huntsville (UAH)">
+  <data key="d0">University of Alabama, Huntsville (UAH)</data>
+</node>
+<node id="Computer Science">
+  <data key="d0">Computer Science</data>
+</node>
+<node id="2015">
+  <data key="d0">2015</data>
+</node>
+<node id="45+">
+  <data key="d0">45+</data>
+</node>
+<node id="Internationally reputed Journals &amp; conferences">
+  <data key="d0">Internationally reputed Journals &amp; conferences</data>
+</node>
+<node id="Coordinator Campus wide Network (TEQIP-I)">
+  <data key="d0">Coordinator Campus wide Network (TEQIP-I)</data>
+</node>
+<node id="Nodal Officer (Academic) (TEQIP-II)">
+  <data key="d0">Nodal Officer (Academic) (TEQIP-II)</data>
+</node>
+<node id="Chief Coordinator for Data Center &amp; Campus wide Network">
+  <data key="d0">Chief Coordinator for Data Center &amp; Campus wide Network</data>
+</node>
+<node id="Ph.D">
+  <data key="d0">Ph.D</data>
+</node>
+<node id="Wireless Networks">
+  <data key="d0">Wireless Networks</data>
+</node>
+<node id="B.M.S. College of Engineering">
+  <data key="d0">B.M.S. College of Engineering</data>
+</node>
+<node id="2008">
+  <data key="d0">2008</data>
+</node>
+<node id="PartTime">
+  <data key="d0">PartTime</data>
+</node>
+<node id="M.Tech">
+  <data key="d0">M.Tech</data>
+</node>
+<node id="2001">
+  <data key="d0">2001</data>
+</node>
+<node id="FullTime">
+  <data key="d0">FullTime</data>
+</node>
+<node id="University Distinction">
+  <data key="d0">University Distinction</data>
+</node>
+<node id="3rd Rank">
+  <data key="d0">3rd Rank</data>
+</node>
+<node id="B.E">
+  <data key="d0">B.E</data>
+</node>
+<node id="Mysore University">
+  <data key="d0">Mysore University</data>
+</node>
+<node id="Malnad College of Engineering">
+  <data key="d0">Malnad College of Engineering</data>
+</node>
+<node id="1996">
+  <data key="d0">1996</data>
+</node>
+<node id="Fuzzy Logic Based Call Admission Control for Next Generation Wireless Networks">
+  <data key="d0">Fuzzy Logic Based Call Admission Control for Next Generation Wireless Networks</data>
+</node>
+<node id="Journal">
+  <data key="d0">Journal</data>
+</node>
+<node id="01-08-2014">
+  <data key="d0">01-08-2014</data>
+</node>
+<node id="Mahesh G">
+  <data key="d0">Mahesh G</data>
+</node>
+<node id="Yeshwanth S">
+  <data key="d0">Yeshwanth S</data>
+</node>
+<node id="Mobile Networks">
+  <data key="d0">Mobile Networks</data>
+</node>
+<node id="Pervasive Computing">
+  <data key="d0">Pervasive Computing</data>
+</node>
+<node id="Fuzzy Logic">
+  <data key="d0">Fuzzy Logic</data>
+</node>
+<node id="Dr. M Dakshayini">
+  <data key="d0">Dr. M Dakshayini</data>
+</node>
+<node id="Professor &amp; HOD">
+  <data key="d0">Professor &amp; HOD</data>
+</node>
+<node id="dakshayini.ise@bmsce.ac.in">
+  <data key="d0">dakshayini.ise@bmsce.ac.in</data>
+</node>
+<node id="Information Science and engineering">
+  <data key="d0">Information Science and engineering</data>
+</node>
+<node id="B M S College of Engineering">
+  <data key="d0">B M S College of Engineering</data>
+</node>
+<node id="BMSCE">
+  <data key="d0">BMSCE</data>
+</node>
+<node id="Bengaluru, Karnataka, India">
+  <data key="d0">Bengaluru, Karnataka, India</data>
+</node>
+<node id="26">
+  <data key="d0">26</data>
+</node>
+<node id="5">
+  <data key="d0">5</data>
+</node>
+<node id="delivered expert lectures at various Seminars/Workshops">
+  <data key="d0">delivered expert lectures at various Seminars/Workshops</data>
+</node>
+<node id="BOS/BOE member for various Institutions">
+  <data key="d0">BOS/BOE member for various Institutions</data>
+</node>
+<node id="NBA Evaluator appointed from NBA, India">
+  <data key="d0">NBA Evaluator appointed from NBA, India</data>
+</node>
+<node id="more than 50">
+  <data key="d0">more than 50</data>
+</node>
+<node id="Co-operative Proxy Servers Architecture for Video on Demand and Webservers using Stochastic Model based Client Request Management Approaches to achieve reduced Client Waiting Time">
+  <data key="d0">Co-operative Proxy Servers Architecture for Video on Demand and Webservers using Stochastic Model based Client Request Management Approaches to achieve reduced Client Waiting Time</data>
+</node>
+<node id="3390/CHE/2010A">
+  <data key="d0">3390/CHE/2010A</data>
+</node>
+<node id="Ph.D.">
+  <data key="d0">Ph.D.</data>
+</node>
+<node id="Computer Science and Engineering">
+  <data key="d0">Computer Science and Engineering</data>
+</node>
+<node id="computer networks">
+  <data key="d0">computer networks</data>
+</node>
+<node id="Dr.MGR University">
+  <data key="d0">Dr.MGR University</data>
+</node>
+<node id="2010">
+  <data key="d0">2010</data>
+</node>
+<node id="M.E.">
+  <data key="d0">M.E.</data>
+</node>
+<node id="B.M.S.C.E/Bangalore University">
+  <data key="d0">B.M.S.C.E/Bangalore University</data>
+</node>
+<node id="2000">
+  <data key="d0">2000</data>
+</node>
+<node id="B.E.">
+  <data key="d0">B.E.</data>
+</node>
+<node id="S J C I T/Bangalore University">
+  <data key="d0">S J C I T/Bangalore University</data>
+</node>
+<node id="1993">
+  <data key="d0">1993</data>
+</node>
+<node id="Computer networks">
+  <data key="d0">Computer networks</data>
+</node>
+<node id="Computer communications">
+  <data key="d0">Computer communications</data>
+</node>
+<node id="Algorithms">
+  <data key="d0">Algorithms</data>
+</node>
+<node id="Cloud computing">
+  <data key="d0">Cloud computing</data>
+</node>
+<node id="Ad-hoc Networks">
+  <data key="d0">Ad-hoc Networks</data>
+</node>
+<node id="IoT">
+  <data key="d0">IoT</data>
+</node>
+<node id="Data Sciences">
+  <data key="d0">Data Sciences</data>
+</node>
+<node id="Best Paper Award for &quot;Regression Based AGRO Forecasting Model&quot; at IEMIS2018">
+  <data key="d0">Best Paper Award for "Regression Based AGRO Forecasting Model" at IEMIS2018</data>
+</node>
+<node id="Dr. Monika Puttaramaiah">
+  <data key="d0">Dr. Monika Puttaramaiah</data>
+</node>
+<node id="Associate Professor">
+  <data key="d0">Associate Professor</data>
+</node>
+<node id="AI&amp;ML">
+  <data key="d0">AI&amp;ML</data>
+</node>
+<node id="monika.mel@bmsce.ac.in">
+  <data key="d0">monika.mel@bmsce.ac.in</data>
+</node>
+<node id="19+">
+  <data key="d0">19+</data>
+</node>
+<node id="Software Engineer at Birlasoft">
+  <data key="d0">Software Engineer at Birlasoft</data>
+</node>
+<node id="BSN Center of Excellence in AI and ML">
+  <data key="d0">BSN Center of Excellence in AI and ML</data>
+</node>
+<node id="Vahini (social media team)">
+  <data key="d0">Vahini (social media team)</data>
+</node>
+<node id="Ph.D. in Computer Science and Engineering (Machine Learning)">
+  <data key="d0">Ph.D. in Computer Science and Engineering (Machine Learning)</data>
+</node>
+<node id="RNSIT / VTU">
+  <data key="d0">RNSIT / VTU</data>
+</node>
+<node id="2020">
+  <data key="d0">2020</data>
+</node>
+<node id="M.Tech in Computer Science and Engineering">
+  <data key="d0">M.Tech in Computer Science and Engineering</data>
+</node>
+<node id="2011">
+  <data key="d0">2011</data>
+</node>
+<node id="B.E. in Computer Science and Engineering">
+  <data key="d0">B.E. in Computer Science and Engineering</data>
+</node>
+<node id="BNMIT / VTU">
+  <data key="d0">BNMIT / VTU</data>
+</node>
+<node id="2007">
+  <data key="d0">2007</data>
+</node>
+<node id="AI and ML">
+  <data key="d0">AI and ML</data>
+</node>
+<node id="18+">
+  <data key="d0">18+</data>
+</node>
+<node id="Undergraduate">
+  <data key="d0">Undergraduate</data>
+</node>
+<node id="Postgraduate">
+  <data key="d0">Postgraduate</data>
+</node>
+<node id="30+">
+  <data key="d0">30+</data>
+</node>
+<node id="Consultancies">
+  <data key="d0">Consultancies</data>
+</node>
+<node id="Journal Reviewer">
+  <data key="d0">Journal Reviewer</data>
+</node>
+<node id="Speaker at technical symposiums">
+  <data key="d0">Speaker at technical symposiums</data>
+</node>
+<node id="Speaker at industry webinars">
+  <data key="d0">Speaker at industry webinars</data>
+</node>
+<node id="IEEE">
+  <data key="d0">IEEE</data>
+</node>
+<node id="ACM">
+  <data key="d0">ACM</data>
+</node>
+<node id="ISTE">
+  <data key="d0">ISTE</data>
+</node>
+<node id="IAENG">
+  <data key="d0">IAENG</data>
+</node>
+<node id="Dr. Sandeep Varma N">
+  <data key="d0">Dr. Sandeep Varma N</data>
+</node>
+<node id="Associate Professor &amp; HOD">
+  <data key="d0">Associate Professor &amp; HOD</data>
+</node>
+<node id="Machine Learning">
+  <data key="d0">Machine Learning</data>
+</node>
+<node id="sandeep.mel@bmsce.ac.in">
+  <data key="d0">sandeep.mel@bmsce.ac.in</data>
+</node>
+<node id="B.Tech in Information Technology">
+  <data key="d0">B.Tech in Information Technology</data>
+</node>
+<node id="JNTU Hyderabad">
+  <data key="d0">JNTU Hyderabad</data>
+</node>
+<node id="M.Tech in Software Engineering">
+  <data key="d0">M.Tech in Software Engineering</data>
+</node>
+<node id="Andhra University">
+  <data key="d0">Andhra University</data>
+</node>
+<node id="Ph.D. in Data Privacy">
+  <data key="d0">Ph.D. in Data Privacy</data>
+</node>
+<node id="Computer Science and Systems Engineering">
+  <data key="d0">Computer Science and Systems Engineering</data>
+</node>
+<node id="Neural Networks">
+  <data key="d0">Neural Networks</data>
+</node>
+<node id="Deep Learning">
+  <data key="d0">Deep Learning</data>
+</node>
+<node id="IOT">
+  <data key="d0">IOT</data>
+</node>
+<node id="Formal Verification Techniques for security protocols">
+  <data key="d0">Formal Verification Techniques for security protocols</data>
+</node>
+<node id="Data Engineering">
+  <data key="d0">Data Engineering</data>
+</node>
+<node id="Software Engineering">
+  <data key="d0">Software Engineering</data>
+</node>
+<node id="AI">
+  <data key="d0">AI</data>
+</node>
+<node id="JRF Fellow">
+  <data key="d0">JRF Fellow</data>
+</node>
+<node id="2010 to 2013">
+  <data key="d0">2010 to 2013</data>
+</node>
+<node id="DST SERB Project">
+  <data key="d0">DST SERB Project</data>
+</node>
+<node id="SRF Fellow">
+  <data key="d0">SRF Fellow</data>
+</node>
+<node id="52.17 Lakhs">
+  <data key="d0">52.17 Lakhs</data>
+</node>
+<node id="Industry">
+  <data key="d0">Industry</data>
+</node>
+<node id="Ministry of Education, Govt. of India">
+  <data key="d0">Ministry of Education, Govt. of India</data>
+</node>
+<node id="ARTPARK, IISc">
+  <data key="d0">ARTPARK, IISc</data>
+</node>
+<node id="BMSCE IEEE Computer Society Chapter, Bangalore Section">
+  <data key="d0">BMSCE IEEE Computer Society Chapter, Bangalore Section</data>
+</node>
+<node id="18">
+  <data key="d0">18</data>
+</node>
+<node id="Physics-informed neural network modeling of ternary hybrid nanofluid flow over an inclined wavy surface">
+  <data key="d0">Physics-informed neural network modeling of ternary hybrid nanofluid flow over an inclined wavy surface</data>
+</node>
+<node id="Multimodal AI for Audio and Video Conversion for ISL Using Federated learning">
+  <data key="d0">Multimodal AI for Audio and Video Conversion for ISL Using Federated learning</data>
+</node>
+<node id="Fine-Tuning Large Language Models for Task Specific Data">
+  <data key="d0">Fine-Tuning Large Language Models for Task Specific Data</data>
+</node>
+<node id="Crime Scene Analysis for News Headline Generation">
+  <data key="d0">Crime Scene Analysis for News Headline Generation</data>
+</node>
+<node id="Experimental Evaluation of Reinforcement Learning Algorithms">
+  <data key="d0">Experimental Evaluation of Reinforcement Learning Algorithms</data>
+</node>
+<node id="Data augmented Approach to Optimizing Asynchronous Actor-Critic Methods">
+  <data key="d0">Data augmented Approach to Optimizing Asynchronous Actor-Critic Methods</data>
+</node>
+<node id="FDMCA: A Novel Authentication Technique using Face Detection and Gaze-based Morse Code Entry">
+  <data key="d0">FDMCA: A Novel Authentication Technique using Face Detection and Gaze-based Morse Code Entry</data>
+</node>
+<node id="Code quality improvement for Intel Windows Graphics Driver">
+  <data key="d0">Code quality improvement for Intel Windows Graphics Driver</data>
+</node>
+<node id="Friend's recommendation on social media using different algorithms of machine learning">
+  <data key="d0">Friend's recommendation on social media using different algorithms of machine learning</data>
+</node>
+<node id="Recommendations in social network using link prediction technique">
+  <data key="d0">Recommendations in social network using link prediction technique</data>
+</node>
+<node id="Blockchain-Based Solution for Proof of Pick-up of a Physical Asset">
+  <data key="d0">Blockchain-Based Solution for Proof of Pick-up of a Physical Asset</data>
+</node>
+<node id="Learning semantic Image attributes using Image recognition and knowledge graph embeddings">
+  <data key="d0">Learning semantic Image attributes using Image recognition and knowledge graph embeddings</data>
+</node>
+<node id="New Fusion Algorithm Provides an Alternative Approach to Robotic Path Planning">
+  <data key="d0">New Fusion Algorithm Provides an Alternative Approach to Robotic Path Planning</data>
+</node>
+<node id="Augmented Random Search for Quadcopter Control: An alternative to Reinforcement Learning">
+  <data key="d0">Augmented Random Search for Quadcopter Control: An alternative to Reinforcement Learning</data>
+</node>
+<node id="Survey on Authentication Techniques for web applications">
+  <data key="d0">Survey on Authentication Techniques for web applications</data>
+</node>
+<node id="Email Authorship Attribution">
+  <data key="d0">Email Authorship Attribution</data>
+</node>
+<node id="Recent Findings in Intelligent Computing Techniques">
+  <data key="d0">Recent Findings in Intelligent Computing Techniques</data>
+</node>
+<node id="Verification in Privacy Preserving Data Publishing">
+  <data key="d0">Verification in Privacy Preserving Data Publishing</data>
+</node>
+<edge source="Dr. Gowrishankar" target="Professor">
+  <data key="d1">designation</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="gowrishankar.cse@bmsce.ac.in">
+  <data key="d1">email</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="BMS College of Engineering">
+  <data key="d1">affiliated_to</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Lecturer">
+  <data key="d1">joined_as</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="1997">
+  <data key="d1">joined_year</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Computer Science &amp; Engineering">
+  <data key="d1">be_field</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Assistant Professor in 2004">
+  <data key="d1">promoted_to</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Professor in 2009">
+  <data key="d1">promoted_to</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Visvesvarya Technological University">
+  <data key="d1">mtech_awarded_by</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="2009">
+  <data key="d1">phd_award_year</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Intelligent Vertical Handoff Mechanism for Interworking of HeterogeneousMobile Networks for Pervasive Computing">
+  <data key="d1">phd_thesis_title</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Head of Department">
+  <data key="d1">served_as</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Information Science &amp; Engineering">
+  <data key="d1">hod_department</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="8">
+  <data key="d1">hod_tenure_years</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="VTU Research Center at Department CS &amp; E">
+  <data key="d1">instrumental_in_starting</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Academic Council (BMSCE)">
+  <data key="d1">served_as_council_member</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="3">
+  <data key="d1">academic_council_terms</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Board of Studies (CS &amp; E and IS &amp; E cluster)">
+  <data key="d1">served_as_chairman</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="2">
+  <data key="d1">guided_phd_students_count</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Board of Examiner (CS &amp; E and IS &amp; E)">
+  <data key="d1">served_as_chairman</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="1">
+  <data key="d1">boe_chairman_terms</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Visiting Professor">
+  <data key="d1">served_as</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="University of Alabama, Huntsville (UAH)">
+  <data key="d1">visiting_professor_university</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Computer Science">
+  <data key="d1">visiting_professor_department</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="2015">
+  <data key="d1">visiting_professor_year</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="45+">
+  <data key="d1">publications_count</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Internationally reputed Journals &amp; conferences">
+  <data key="d1">publication_medium</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Coordinator Campus wide Network (TEQIP-I)">
+  <data key="d1">worked_as</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Nodal Officer (Academic) (TEQIP-II)">
+  <data key="d1">served_as</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Chief Coordinator for Data Center &amp; Campus wide Network">
+  <data key="d1">current_role</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Ph.D">
+  <data key="d1">has_degree</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Wireless Networks">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="B.M.S. College of Engineering">
+  <data key="d1">mtech_institution</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="2008">
+  <data key="d1">phd_passed_year</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="PartTime">
+  <data key="d1">phd_program_type</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="M.Tech">
+  <data key="d1">has_degree</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="2001">
+  <data key="d1">mtech_passed_year</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="FullTime">
+  <data key="d1">be_program_type</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="University Distinction">
+  <data key="d1">mtech_achievement</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="3rd Rank">
+  <data key="d1">mtech_rank</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="B.E">
+  <data key="d1">has_degree</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Mysore University">
+  <data key="d1">be_awarded_by</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Malnad College of Engineering">
+  <data key="d1">be_institution</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="1996">
+  <data key="d1">be_passed_year</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Fuzzy Logic Based Call Admission Control for Next Generation Wireless Networks">
+  <data key="d1">published_paper_title</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Journal">
+  <data key="d1">published_paper_type</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="01-08-2014">
+  <data key="d1">published_paper_date</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Mahesh G">
+  <data key="d1">published_paper_co_author</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Yeshwanth S">
+  <data key="d1">published_paper_co_author</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Mobile Networks">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Pervasive Computing">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. Gowrishankar" target="Fuzzy Logic">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Dr. M Dakshayini">
+  <data key="d1">full_name</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Professor &amp; HOD">
+  <data key="d1">designation</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="dakshayini.ise@bmsce.ac.in">
+  <data key="d1">email</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Information Science and engineering">
+  <data key="d1">department</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="B M S College of Engineering">
+  <data key="d1">affiliated_to</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="BMSCE">
+  <data key="d1">college_acronym</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Bengaluru, Karnataka, India">
+  <data key="d1">located_in</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="26">
+  <data key="d1">international_conference_publications_count</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="5">
+  <data key="d1">national_conference_publications_count</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="1">
+  <data key="d1">phd_guiding_presently_count</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="delivered expert lectures at various Seminars/Workshops">
+  <data key="d1">activity</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="BOS/BOE member for various Institutions">
+  <data key="d1">role</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="NBA Evaluator appointed from NBA, India">
+  <data key="d1">role</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="more than 50">
+  <data key="d1">journal_publications_count</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Co-operative Proxy Servers Architecture for Video on Demand and Webservers using Stochastic Model based Client Request Management Approaches to achieve reduced Client Waiting Time">
+  <data key="d1">published_patent_title</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="3390/CHE/2010A">
+  <data key="d1">patent_reference_number</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Ph.D.">
+  <data key="d1">qualified_with</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Computer Science and Engineering">
+  <data key="d1">be_degree_title</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="computer networks">
+  <data key="d1">phd_specialization_area</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Dr.MGR University">
+  <data key="d1">phd_awarded_from</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="2010">
+  <data key="d1">phd_awarded_year</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="PartTime">
+  <data key="d1">phd_program_type</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="M.E.">
+  <data key="d1">qualified_with</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="B.M.S.C.E/Bangalore University">
+  <data key="d1">me_awarded_from</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="2000">
+  <data key="d1">me_awarded_year</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="FullTime">
+  <data key="d1">be_program_type</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="B.E.">
+  <data key="d1">qualified_with</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="S J C I T/Bangalore University">
+  <data key="d1">be_awarded_from</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="1993">
+  <data key="d1">be_awarded_year</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Computer networks">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Computer communications">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Algorithms">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Cloud computing">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Ad-hoc Networks">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="IoT">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Data Sciences">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. M Dakshayini" target="Best Paper Award for &quot;Regression Based AGRO Forecasting Model&quot; at IEMIS2018">
+  <data key="d1">awarded</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="Associate Professor">
+  <data key="d1">designation</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="AI&amp;ML">
+  <data key="d1">teaches_area</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="BMS College of Engineering">
+  <data key="d1">affiliated_to</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="monika.mel@bmsce.ac.in">
+  <data key="d1">email</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="19+">
+  <data key="d1">experience_years</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="Software Engineer at Birlasoft">
+  <data key="d1">previous_role</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="BSN Center of Excellence in AI and ML">
+  <data key="d1">heads_center</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="Vahini (social media team)">
+  <data key="d1">heads_team</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="Ph.D. in Computer Science and Engineering (Machine Learning)">
+  <data key="d1">qualified_with</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="RNSIT / VTU">
+  <data key="d1">awarded_mtech_from</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="2020">
+  <data key="d1">phd_awarded_year</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="PartTime">
+  <data key="d1">phd_program_type</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="M.Tech in Computer Science and Engineering">
+  <data key="d1">qualified_with</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="2011">
+  <data key="d1">mtech_awarded_year</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="FullTime">
+  <data key="d1">be_program_type</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="B.E. in Computer Science and Engineering">
+  <data key="d1">qualified_with</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="BNMIT / VTU">
+  <data key="d1">awarded_be_from</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="2007">
+  <data key="d1">be_awarded_year</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="AI and ML">
+  <data key="d1">patents_field</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="Computer Science">
+  <data key="d1">teaches_area</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="18+">
+  <data key="d1">courses_taught_count</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="Undergraduate">
+  <data key="d1">guided_projects</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="Postgraduate">
+  <data key="d1">guided_projects</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="30+">
+  <data key="d1">publications_count</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="5">
+  <data key="d1">patents_count_indian</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="1">
+  <data key="d1">patents_count_australian</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="Consultancies">
+  <data key="d1">collaborates_with</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="Journal Reviewer">
+  <data key="d1">role</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="Speaker at technical symposiums">
+  <data key="d1">role</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="Speaker at industry webinars">
+  <data key="d1">role</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="IEEE">
+  <data key="d1">member_of</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="ACM">
+  <data key="d1">member_of</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="ISTE">
+  <data key="d1">member_of</data>
+</edge>
+<edge source="Dr. Monika Puttaramaiah" target="IAENG">
+  <data key="d1">member_of</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Associate Professor &amp; HOD">
+  <data key="d1">designation</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Machine Learning">
+  <data key="d1">department</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="B.M.S. College of Engineering">
+  <data key="d1">affiliated_to</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="sandeep.mel@bmsce.ac.in">
+  <data key="d1">email</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="B.Tech in Information Technology">
+  <data key="d1">has_degree</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="JNTU Hyderabad">
+  <data key="d1">awarded_bachelor_from</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="2007">
+  <data key="d1">bachelor_award_year</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="M.Tech in Software Engineering">
+  <data key="d1">has_degree</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Andhra University">
+  <data key="d1">srf_fellowship_location</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="2009">
+  <data key="d1">master_award_year</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Ph.D. in Data Privacy">
+  <data key="d1">has_degree</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="2015">
+  <data key="d1">phd_award_year</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Computer Science and Systems Engineering">
+  <data key="d1">phd_field_of_study</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Neural Networks">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Deep Learning">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="IOT">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Formal Verification Techniques for security protocols">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Data Engineering">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Software Engineering">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="AI">
+  <data key="d1">researches</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="JRF Fellow">
+  <data key="d1">worked_as</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="2010 to 2013">
+  <data key="d1">srf_fellowship_period</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="DST SERB Project">
+  <data key="d1">srf_fellowship_project</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="SRF Fellow">
+  <data key="d1">worked_as</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="52.17 Lakhs">
+  <data key="d1">executes_sponsored_project_worth</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Industry">
+  <data key="d1">project_sponsor</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Ministry of Education, Govt. of India">
+  <data key="d1">project_sponsor</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="ARTPARK, IISc">
+  <data key="d1">project_sponsor</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="BMSCE IEEE Computer Society Chapter, Bangalore Section">
+  <data key="d1">chapter_advisor_for</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="18">
+  <data key="d1">publication_count</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Physics-informed neural network modeling of ternary hybrid nanofluid flow over an inclined wavy surface">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Multimodal AI for Audio and Video Conversion for ISL Using Federated learning">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Fine-Tuning Large Language Models for Task Specific Data">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Crime Scene Analysis for News Headline Generation">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Experimental Evaluation of Reinforcement Learning Algorithms">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Data augmented Approach to Optimizing Asynchronous Actor-Critic Methods">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="FDMCA: A Novel Authentication Technique using Face Detection and Gaze-based Morse Code Entry">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Code quality improvement for Intel Windows Graphics Driver">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Friend's recommendation on social media using different algorithms of machine learning">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Recommendations in social network using link prediction technique">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Blockchain-Based Solution for Proof of Pick-up of a Physical Asset">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Learning semantic Image attributes using Image recognition and knowledge graph embeddings">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="New Fusion Algorithm Provides an Alternative Approach to Robotic Path Planning">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Augmented Random Search for Quadcopter Control: An alternative to Reinforcement Learning">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Survey on Authentication Techniques for web applications">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Email Authorship Attribution">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Recent Findings in Intelligent Computing Techniques">
+  <data key="d1">published</data>
+</edge>
+<edge source="Dr. Sandeep Varma N" target="Verification in Privacy Preserving Data Publishing">
+  <data key="d1">published</data>
+</edge>
+</graph></graphml>
