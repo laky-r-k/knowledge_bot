@@ -1,0 +1,93 @@
+Source: https://bmsce.ac.in/home/facultyProfile/438/Dr-Monika-Puttaramaiah
+============================================================
+
+Name: Dr. Monika Puttaramaiah
+Designation: Associate Professor
+Qualification: BE(CSE), M.Tech(CSE), Ph.D(CSE-ML)
+Email: monika.mel@bmsce.ac.in
+Research Interests:
+
+About:
+Dr. Monika is currently serving as an Associate Professor in the Department of AI&ML at BMS College of Engineering, where she is also heading the prestigious BSN Center of Excellence in AI and ML and social media team - Vahini at institution level . With a Ph.D. in Computer Science domain specialized in AI&ML and over 19+ years of experience, she has combined her technical expertise and academic passion to nurture the next generation of engineers and innovators. Her journey is one of excellence and commitment, beginning as a Software Engineer at Birlasoft and transitioning into academia, where she has made remarkable strides. Dr. Monika has taught more than 18 courses in Computer Science and AI&ML and has guided countless projects at both undergraduate and postgraduate levels. Her work is recognized not only through the numerous workshops and conferences she has organized but also through her research, which has been published in over 30+ internationally renowned journals and conferences. She holds 5 Indian patents published  and 1 Australian patent in AI and ML, showcasing her innovative approach to solving complex problems. Moreover, Dr. Monika’s contributions go beyond academia—she actively collaborates with consultancies, works as a reviewer for prestigious journals, and is a sought-after speaker at technical symposiums and industry webinars. Dr. Monika is also an esteemed member of global organizations like IEEE, ACM, ISTE and IAENG, constantly pushing the boundaries of what is possible in the field of AI and ML.
+
+Education:
+Ph. D - Computer Science and Engineering (Machine Learning)
+RNSIT / VTU
+Passed Year: 2020 | Program Type: PartTime
+M. Tech - Computer Science and Engineering
+RNSIT / VTU
+Passed Year: 2011 | Program Type: FullTime
+BE - Computer Science and Engineering
+BNMIT / VTU
+Passed Year: 2007 | Program Type: FullTime
+
+Selected Publications:
+Journal  |  Published On : 21-05-2026
+K R, Shylaja, Raj, Kalyan, G, Shobha, S, Malini, Puttaramaiah, Monika, Radhika, Neelam Patil and Appaji, Abhishek
+"Biogenic credibility of zirconium nanoparticles: boosting growth and battling pathogens" Open Chemistry, Scopus Indexed Journal, vol. 24, no. 1, 2026, pp. 20250246, SJR ranking: 0.416, Rating: Q3
+Weblink
+Journal  |  Published On : 25-08-2025
+Gowrishankar Subrahmanyam, Monika Puttaramaiah, Gauri Kalnoor, Prakash B Metre
+“Joint Radio Resource Management Soft computing Technique for 5G and Beyond 5G Wireless Networks”, Procedia Computer Science, Scopus Indexed Journal, vol. 265, issue , page 17-24, ISSN: 1877-0509, DOI: 10.1016/j.procs.2025.07.151,  SJR Ranking: 0.471, August 2025, Rating: Q2
+Weblink
+Conference  |  Published On : 28-04-2025
+M. Puttaramaiah, P. Supriya, A. P. Kulkarni, V. Likith Chowdary, S. Pavan Kumar and Rishi
+Weed and Crop Detection using Deep Neural Networks," 2025 International Conference on Knowledge Engineering and Communication Systems (ICKECS), Chickballapur, India, April 28-29, 2025, IEEE, pp. 1-6, DOI: 10.1109/ICKECS65700.2025.11034802.
+Weblink
+Journal  |  Published On : 23-12-2023
+Monika P, Luke Abbatessa, Dr. Gowrishankar, Madhu Reddiboina, Vaishak Bhuvan M R
+“Optimizing Lettuce Cultivation: Nutrient And Disease Monitoring In Vertical Farms”, International Journal of Applied Engineering & Technology, Scopus Indexed Journal, vol. 5, issue 4, page 4803-4812, ISSN: 2633-4828,  Impact Factor: 0.313, December, 2023. Rating: Q4
+Weblink
+Conference  |  Published On : 29-12-2022
+P. C. Hiremath, R. G T, Monika. P, C. Kulkarni and V. Bhuvan M R
+"Performance Evaluation of ML Techniques for Trust-Based Employee Behavioural Classification for Access Control in Organizations," 2022 IEEE International Conference on Knowledge Engineering and Communication Systems (ICKES), Chickballapur, India, 28-29 Dec, 2022, pp. 1-7, DOI: 10.1109/ICKECS56523.2022.10060527
+Weblink
+Journal  |  Published On : 22-09-2022
+Monika P, Raju G T
+“Integration of Healthcare domain Ontologies using Neuro-Fuzzy Networks”, NeuroQuantology, Scopus Indexed Journal, vol. 20, issue 11, page 8790-8798, ISSN: 1303-5150, DOI: 10.48047/nq.2022.20.11.NQ66874, Impact Factor: 0.29, September 22, 2022. Rating: Q4
+Weblink
+Journal  |  Published On : 22-06-2022
+Edeh Michael Onyema, Khalid K. Almuzaini, Fergus Uchenna Onu, Devvret Verma, Ugboaja Samuel Gregory, Monika Puttaramaiah, Rockson Kwasi Afriyie
+"Prospects and Challenges of Using Machine Learning for Academic Forecasting", Computational Intelligence and Neuroscience, vol. 2022, Article ID 5624475, 7 pages, Impact Factor: 2.3, June 2022. https://doi.org/10.1155/2022/5624475 Rating: Q2
+Weblink
+Journal  |  Published On : 01-06-2022
+Chaitanya Kulkarni, P Monika, Preeti B, Shruthi S
+“A novel framework for automatic caption and audio generation “, Materials Today: Proceedings, Science Direct (Elsevier – Scopus Indexed)and CPCI (Conference Proceedings Citation Index, Clarivate) Indexed, ISSN: 2214-7853, DOI: 10.1016/j.matpr.2022.05.380. Rating: Q2
+Weblink
+Journal  |  Published On : 16-04-2022
+Monika P, Chaitanya Kulkarni, Harish Kumar N, Shruthi S, Vani V
+"Machine learning approaches for sentiment analysis A survey
+Machine Learning Approaches for Sentiment Analysis: A Survey”, International Journal of Health Sciences (IJHS), Scopus indexed, vol. 6, issue S4, page 1286-1300, ISSN: 2550-6978, DOI: 10.53730/ijhs.v6nS4.6119, Rating: Q4
+Weblink
+Book Chapter or Books  |  Published On : 01-01-2022
+Chaitanya Kulkarni, P. Monika, S. Shruthi, M. S. Deepak Bharadwaj, D. Uday
+"COVID-19 Fake News Detection Using GloVe and Bi-LSTM",  International Conference on Sustainable Expert Systems,  Springer LN Series, Print ISSN: 978-981-16-7656-7, Online ISSN:  978-981-16-7657-4, vol 351, DOI: 10.1007/978-981-16-7657-4_5
+Weblink
+Journal  |  Published On : 31-12-2019
+Monika P, Raju G T
+“Integration of Healthcare Ontologies at Schema Level using Customized Metadata”, International Journal of Innovative Technology and Exploring Engineering (IJITEE), Elsevier Scopus Indexed Journal, vol. 9, issue 2S, ISSN: 2278-3075, DOI: 10.35940/ijitee.B1084.1292S19. Rating: Q4
+Weblink
+Journal  |  Published On : 31-12-2019
+Monika P, Raju G T
+"Integration of Healthcare domain Ontologies using Bayesian Networks”, International Journal of Innovative Technology and Exploring Engineering (IJITEE), Elsevier Scopus Indexed Journal, vol. 9, issue 2S, ISSN: 2278-3075, DOI: 10.35940/ijitee.B1028.1292S19, Rating: Q4
+Weblink
+Book Chapter or Books  |  Published On : 25-09-2019
+Monika P, Raju G T
+“Effective Model Integration Algorithm for Improving Prediction Accuracy of Healthcare Ontology”, 3rd International Conference On Computational Vision and Bio Inspired Computing (ICCVBIC), Indexed in Scopus, Google Scholar and SpringerLink- LN series, ISSN: 978-3-030-37218-7
+Weblink
+Journal  |  Published On : 10-09-2019
+Monika P, Raju G T
+"Data Pre-Processing and Customized Onto-Graph Construction for Knowledge Extraction in Healthcare Domain of Semantic Web", International Journal of Innovative Technology and Exploring Engineering (IJITEE), Elsevier Scopus Indexed Journal, ISSN: 2278-3075, vol. 8, issue: 11, pp. 712-719, DOI: 10.35940/ijitee.K1423.0981119, Impact factor 5.54, Rating: Q4
+Weblink
+Conference  |  Published On : 02-07-2019
+DendiGayathri Reddy, Emmidi Naga Hemanth Kumar, DesireddyLohithSaiCharan Reddy, Monika P
+"Integrated Machine Learning Model for Prediction of Lung Cancer Stages from Textual data using Ensemble Method”, 1st International Conference on Advances in Information Technology (ICAIT), IEEE
+Weblink
+Book Chapter or Books  |  Published On : 21-09-2017
+Monika P, Vinutha M R, Srihari B N, Harikrishna S, Sumangala S M, G T Raju
+"Medical Diagnosis Guidance Using Semantic Web”, International Conference On Computational Vision and Bio Inspired Computing (ICCVBIC), Indexed in SCOPUS, Google Scholar and SpringerLink-LN series, LNCVB, vol.28, ISSN: 978-3-319-71767-8, pp. 174-185, DOI: 10.1007/978-3-319-71767-8_14
+Weblink
+Journal  |  Published On : 26-12-2015
+Monika P, Raju G T
+"Semantic Web with Ontology Agents for Improved Search Results - A Survey", Scopus indexed - International Journal of Applied Engineering Research (IJAER), ISSN 0973-4562, vol. 10, issue: 86, pp. 264-270. Rating: Q2
+Weblink

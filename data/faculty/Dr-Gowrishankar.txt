@@ -1,0 +1,27 @@
+Source: https://bmsce.ac.in/home/facultyProfile/28/Dr-Gowrishankar
+============================================================
+
+Name: Dr. Gowrishankar
+Designation: Professor
+Qualification: B.E., M.Tech, Ph.D.
+Email: gowrishankar.cse@bmsce.ac.in
+Research Interests:
+
+About:
+Joined BMSCE as Lecturer in  Department of Computer Science & Engineering (CS & E) in 1997, sponsored to M.Tech in CS& E in the year 1999 and Completed M.Tech with  University distinction  & secured University Rank (3rd Rank). In the year 2004, selected as Assistant Professor through Direct recruitment. Awarded Ph.D Degree From Visvesvarya Technological university (VTU) for the research work “Intelligent Vertical Handoff Mechanism for Interworking of HeterogeneousMobile Networks for Pervasive Computing” in the year 2009. Promoted as Professor in computer Science Department through direct recruitment during 2009. Served as Head of the Department for CS &E and Information Science & Engineering (IS & E) for the total period of 8 Years. During my tenure as Head of the Department of computer science & Engineering the Department Under graduate Program accredited by National Board of Accreditation (NBA) under Tier-1 Format as per Washington Accord. I was instrumental in starting  VTU Research center at Department CS & E. Served as member of Academic Council of BMSCE for three terms, Chairman, Board of Studies (BoS) for CS & E and IS & E cluster at BMSCE for two terms and Chairman, Board of Examiner (BoE)  for CS & E and IS & E for one term. Guided two students leading to the Ph.D. Degree. Served as Visiting Professor for Department of Computer Science, University of Alabama, Huntsville (UAH) in 2015. Published morethan 45 Research papers in Internationally reputed Journals & conferences.  Worked as Coordinator Campus wide Network in TEQIP –I to design and implement Campus wide Network at BMSCE. Served as Nodal officer (Academic) for TEQIP –II.  Currently working as Professor at CS& E and Chief coordinator for Data Center & Campus wide Network.
+
+Education:
+Ph.D - Wireless Networks
+B.M.S. College of Engineering, Visvesvarya Technological University
+Passed Year: 2008 | Program Type: PartTime
+M.Tech - Computer Science &  Engineering
+B.M.S. College of Engineering, Visvesvarya Technological University
+Passed Year: 2001 | Program Type: FullTime
+B.E  - Computer Science &  Engineering
+Malnad College of Engineering, Mysore University
+Passed Year: 1996 | Program Type: FullTime
+
+Selected Publications:
+Journal  |  Published On : 01-08-2014
+Mahesh G, Yeshwanth S and Gowrishankar
+Fuzzy Logic Based Call Admission Control for Next Generation Wireless Networks

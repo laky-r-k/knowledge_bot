@@ -6,7 +6,7 @@ from kg_builder.kg_builder import SpaCyKGBuilder
 # 1. Load data & build KG
 kg = SpaCyKGBuilder()
 
-with open("data/faculty_data.txt", "r", encoding="utf-8") as f:
+with open("data/faculty/_combined.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
 triples = kg.extract_triples(text)

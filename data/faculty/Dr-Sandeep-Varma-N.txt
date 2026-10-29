@@ -1,0 +1,96 @@
+Source: https://bmsce.ac.in/home/facultyProfile/156/Dr-Sandeep-Varma-N
+============================================================
+
+Name: Dr. Sandeep Varma N
+Designation: Associate Professor & HOD
+Qualification: B.Tech, M.Tech, Ph.D.
+Email: sandeep.mel@bmsce.ac.in
+Research Interests:
+
+About:
+Dr. Sandeep is currently working as Associate Professor in the Department of Machine Learning, B.M.S. College of Engineering.   He received his B. Tech degree in Information Technology from JNTU Hyderabad, Telangana, India in 2007. He received his M. Tech from Andhra University in 2009 and his Ph.D. in Computer Science and Systems Engineering from Andhra University in 2015. He also worked as JRF & SRF Fellowships from 2010 to 2013, Andhra University under DST SERB Project. Dr. Sandeep is a very active researcher and currently executing R&D sponsored projects of worth 52.17 Lakhs from Industry, Ministry of Education, Govt. of India & ARTPARK, IISc, in the fields of Neural Networks, Deep Learning and IOT.  His research interest include Formal Verification Techniques for security protocols, Data Engineering, Software Engineering and AI. He is a also Chapter Advisor to BMSCE IEEE Computer Society Chapter, Bangalore Section.
+
+Education:
+Ph.D. - Data Privacy
+Andhra University
+Passed Year: 2015 | Program Type: FullTime
+Masters - Software Engineering
+Andhra University
+Passed Year: 2009 | Program Type: FullTime
+Bachelors - Information Technology
+JNTU Hyderabad
+Passed Year: 2007 | Program Type: FullTime
+
+Selected Publications:
+Journal  |  Published On : 10-07-2026
+Chethan R, BV Rathish Kumar, Bandaru Mallikarjuna, Sandeep Varma N
+Chethan R, BV Rathish Kumar, Bandaru Mallikarjuna, Sandeep Varma N, “Physics-informed neural network modeling of ternary hybrid nanofluid flow over an inclined wavy surface”, International Journal of Numerical Methods for Heat & Fluid Flow, PP-1-25, Emarald Publishing Limited, Q1-Journal – Impact Factor 5.1 – Unpaid.
+Weblink
+Conference  |  Published On : 21-01-2026
+N Sandeep Varma, Sahay Siddharth, Bishnoi Vishesh, Gandhi Varsh, Dsouza Mathias Prajwal
+N. SandeepVarma, S. Sahay, V. Bishnoi, V. Gandhi and M. P. Dsouza, "Multimodal AI for Audio and Video Conversion for ISL Using Federated learning," 2025 IEEE North Karnataka Subsection Flagship International Conference (NKCon), pp. 1-6, doi: 10.1109/NKCon66957.2025.11345802, Hubballi, India, January 2026.
+Weblink
+Conference  |  Published On : 29-10-2024
+Ramesh, Rishab; Akarsh Thejasvi Raju M; Harsha Vardhan; Varma, Sandeep
+Fine-Tuning Large Language Models for Task Specific Data, 2024 2nd International Conference on Networking, Embedded and Wireless Systems (ICNEWS), Bangalore, India, 2024, pp. 1-6, doi: 10.1109/ICNEWS60873.2024.10730913.
+Weblink
+Conference  |  Published On : 10-07-2023
+Sandeep Varma N, Akash Venugopal, Ayush Sharma
+Crime Scene Analysis for News Headline Generation, 4th International Conference for Emerging Technology (INCET), IEEE, 2023
+Weblink
+Conference  |  Published On : 18-06-2023
+N Sandeep Varma, Vaishnavi Sinha, K Pradyumna Rahul
+Experimental Evaluation of Reinforcement Learning Algorithms, Proceedings of International Conference on Computational Intelligence and Data Engineering: ICCIDE 2022, IEEE, 2023.
+Weblink
+Conference  |  Published On : 13-06-2022
+Sandeep Varma N, Pradyumna Rahul K, Vaishnavi Sinha
+Data augmented Approach to Optimizing Asynchronous Actor-Critic Methods, 2022 IEEE International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)
+Weblink
+Conference  |  Published On : 22-12-2021
+Pushya D; Shreyas N; Shreya P; Sandeep Varma N
+FDMCA: A Novel Authentication Technique using Face Detection and Gaze-based Morse Code Entry, 2021 IEEE Mysore Sub Section International Conference (MysuruCon)
+Weblink
+Journal  |  Published On : 01-11-2021
+Ruksar Parveen, N Sandeep Varma
+Code quality improvement for Intel Windows Graphics Driver,  Global Transitions Proceedings, Volume 2, Issue 2, November 2021, Pages 273-281
+Weblink
+Journal  |  Published On : 01-11-2021
+RuksarParveenN. SandeepVarma
+Friend's recommendation on social media using different algorithms of machine learning, Global Transitions Proceedings Volume 2, Issue 2, November 2021, Pages 273-281
+Weblink
+Conference  |  Published On : 07-10-2020
+BV Ramya, N Sandeep Varma, R Indra
+Recommendations in social network using link prediction technique, 2020 IEEE International Conference on Smart Electronics and Communication (ICOSEC), pp.782-786
+Weblink
+Conference  |  Published On : 22-09-2020
+R Rohan, Sandeep Varma, M Sivaramakrishna
+Blockchain-Based Solution for Proof of Pick-up of a Physical Asset, 2020 IEEE International Conference on Mainstreaming Block Chain Implementation (ICOMBI), pp.1-7
+Weblink
+Journal  |  Published On : 12-09-2020
+Ashutosh Tiwari, Sandeep Varma
+Learning semantic Image attributes using Image recognition and knowledge graph embeddings,  arXiv preprint arXiv:2009.05812
+Weblink
+Journal  |  Published On : 08-06-2020
+Ashutosh Kumar Tiwari, Sandeep Varma Nadimpalli
+New Fusion Algorithm Provides an Alternative Approach to Robotic Path Planning, Information Engineering and Electronic Business, Vol.3, pp.1-7, MECS Press
+Weblink
+Journal  |  Published On : 09-11-2019
+Ashutosh Kumar Tiwari, Sandeep Varma Nadimpalli
+Augmented Random Search for Quadcopter Control: An alternative to Reinforcement Learning", International Journal of Information Technology and Computer Science(IJITCS), Vol.11, No.11, pp.24-33.
+Weblink
+Conference  |  Published On : 17-03-2019
+Mahith Madwesh, Sandeep Varma Nadimpalli
+Survey on Authentication Techniques for web applications,  Proceedings of Second International Conference on Emerging Trends In Science & Technologies For Engineering Systems (ICETSE-2019)
+Weblink
+Conference  |  Published On : 08-02-2019
+Suman Patil, Sandeep Varma Nadimpalli, Pavithra K. Yadav
+Email Authorship Attribution, International Conference on Innovations in Electronics and Communication Engineering, Vol.65, Pages 451-457, Springer (Book Chapter)
+Weblink
+Conference  |  Published On : 04-11-2018
+Rajalingam Raghu, N. Sandeep Varma
+Recent Findings in Intelligent Computing Techniques, Advances in Intelligent Systems and Computing 709, Springer (Book Chapter)
+Weblink
+Journal  |  Published On : 10-08-2016
+Sandeep Varma Nadimpalli, Valli Kumari Vatsavayi
+Verification in Privacy Preserving Data Publishing, Computing and Informatics 35 (5), 1160-1188 - SCI Publication
+Weblink

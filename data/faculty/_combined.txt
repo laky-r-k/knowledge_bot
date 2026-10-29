@@ -1,0 +1,307 @@
+
+--- https://bmsce.ac.in/home/facultyProfile/135/Dr-M-Dakshayini ---
+Name: Dr. M Dakshayini
+Designation: Professor & HOD
+Qualification: Ph.D.
+Email: dakshayini.ise@bmsce.ac.in
+Research Interests:
+
+About:
+Dr. M Dakshayini, holding M.E degree with FCD, awarded Ph.D in the area of computer networks in 2010. Presently she is working as Professor and Head in the Department of Information Science and engineering, B M S College of Engineering[BMSCE], Bengaluru, Karnataka, India.
+She has 26 years of teaching experience, 5 research candidates have been awarded with Ph.D degree under her guidance and presently guiding 1 research scholar towards research and Ph.D. in the area of Computer communications, Algorithms, Cloud computing, Ad-hoc Networks, IoT and Data Sciences. She has delivered expert lectures at various Seminars/Workshops. She is BOS/BOE member for various Institutions. She is a NBA Evaluator appointed from NBA, India.
+She has more than 50 International peer reviewed Journal Publications, 26 International conference and 5 national conference Publications to her credit. She has published a patent for the research work “Co-operative Proxy Servers Architecture for Video on Demand and Webservers using Stochastic Model based Client Request Management Approaches to achieve reduced Client Waiting Time Reference number [3390/CHE/2010A].
+
+Education:
+Ph.D. - Computer Science and Engineering
+Dr.MGR University
+Passed Year: 2010 | Program Type: PartTime
+M.E - Computer Science and Engineering
+B.M.S.C.E/Bangalore University
+Passed Year: 2000 | Program Type: FullTime
+B.E - Computer Science and Engineering
+S J C I T/Bangalore University
+Passed Year: 1993 | Program Type: FullTime
+
+Selected Publications:
+Journal  |  Published On : 02-07-2026
+T.S., Shobana, T. S. , M., Dakshayini, M. , K.R., Venugopal, Kala R.
+Shobana T S, M Dakshayini, & K R Venugopal. (2026). Review on Contactless Vital Sign Monitoring: Techniques and Applications of Remote Photoplethysmography and Photoplethysmography for Remote Health Monitoring. International Journal of Computer Information Systems and Industrial Management Applications, 18(4s), 1376–1383. Scopus indexed (Q1), https://doi.org/10.70917/ijcisim-2026-2643
+Weblink
+Journal  |  Published On : 18-06-2026
+Shobana T S, M Dakshayini, Venugopal K R
+Shobana T. S., M. Dakshayini, Venugopal K. R., “Non-Contact Vital Signs Estimation MI and DI Techniques: A Comprehensive Survey,” Journal of Intelligent Decision Making and Information Science, eISSN: 3079-0875, Volume 3, pp. 317–345 (2026), Scopus indexed (Q1), www.jidmis.org, DOI: https://doi.org/10.59543/jidmis.v3.1396
+Weblink
+Conference  |  Published On : 01-05-2026
+M. Dakshayini
+3D FixGen: An AI-Assisted Voxel-Morphological Framework for  Patient-Specific Prosthetic Design and Additive Manufacturing
+Weblink
+Journal  |  Published On : 12-03-2026
+Rashmi R, M Dakshayini
+Rashmi R, M. Dakshayini, "A comprehensive survey on digital twin technology: concepts, frameworks and industrial use-cases", Scientific Culture, ISSN 2408-0071, Vol 12, Issue 5 Part 1, PP 412-426, 2026, DOI:10.5281/zenodo.20720718.
+Weblink
+Conference  |  Published On : 29-11-2024
+Daivik Rao; P Yatish Sriram; Dakshayani M; Aniket Gupta
+ImageCraft - Text To Image Synthesis
+Weblink
+Journal  |  Published On : 17-05-2024
+A., Varshney, Abhilasha , M., Dakshayini, M. , H.L., Gururaj, H. L. , Y., Hu, Yuchen
+Varshney, A., Dakshayini, M., Gururaj, H.L. et al. Synchronization and implementation of real-time traffic signal optimization regulator. Multimed Tools Appl 84, 10725–10745 (2025). https://doi.org/10.1007/s11042-024-18956-9
+Weblink
+Conference  |  Published On : 22-04-2024
+M Dakshayini; H P Sushma; S Spoorthi
+Blockchain Based Traceability System for Food Safety
+
+DOI: 10.1109/ICETCS61022.2024.10543664
+Weblink
+Journal  |  Published On : 06-03-2021
+M Dakshayini, R Rashmi
+"Hierarchical cooperative-peers fog caching strategy to improve the performance of content centric networking “, in the Int. Journal “Multimedia Tools and Applications”, SCOPUS and WoS-SCIE Indexed Q2 Journal, IF 2.313, ISSN/eISSN 1380-7501 / 1573-7721, DOI: 10.1007/s11042-021-10733-2.
+Weblink
+Book Chapter or Books  |  Published On : 21-12-2020
+N. S. Akhilesh, M. N. Aniruddha, Ghosh Anirban, M. Dakshayini
+“Government Document Approval and Management Using Blockchain“, published as a chapter in Springer Lecture Notes on Data Engineering and Communications Technologies book series (LNDECT), volume 56, pp 387-40, SCOPUS Indexed.
+Weblink
+Journal  |  Published On : 30-10-2020
+Balaji Prabhu B V, M Dakshayini
+"Computational Performance Analysis of Neural Network and Regression Models in Forecasting the Societal Demand for Agricultural Food Harvests." International Journal of Grid and High Performance Computing (IJGHPC), Vol 12, Issue 4, Oct-Dec 2020 , pp 35-47, ISSN 1938-0259, eISSN: 1938-0267, WOS, SCOPUS and ESCI Indexed.
+Weblink
+Journal  |  Published On : 20-08-2020
+Naveen Kumar S, M Dakshayini, Raghavendra R Biradar, Rajashekargouda G S,
+“Blockchain Based Security Solution for Medical Data “, International Journal of Innovative Technology and Exploring Engineering (IJITEE), SCOPUS Indexed with H Index 40 and Q4 Journal’, Volume-9 Issue-10, August 2020, Page No. 283-287, ISSN: 2278–3075 (Online),.
+Journal  |  Published On : 18-08-2020
+Rajashekhar Gouda, Naveen Kumar S, Raghavendra R Biradar, M Dakshayini,
+“Blockchain in Pharmaceutical Sector“, Wutan Huatan Jisuan Jishu,  ISSN NO:1001-1749, August 2020, Vol 16, Issue 8,  SCOPUS indexed with H index 7, pp 41-49.
+Journal  |  Published On : 11-04-2020
+Balaji B V,  M Dakshayini
+“An Effective Multiple Linear Regression based forecasting model for Demand based Constructive farming“, IGI-Global International Journal of Web based learning and Teaching Technologies(IJWLTT), IGI Global, vol. 15(2), pages 1-18, April 2020, SCOPUS indexed, DOI: 10.4018/IJWLTT.2020040101.
+Weblink
+Journal  |  Published On : 10-01-2019
+Rekha P M, Dr. M Dakshayini,
+"Efficient Task Allocation Approach using Genetic Algorithm for Cloud Environment", Springer Journal “Cluster Computing: The Journal of Networks, Software Tools and Applications, ISSN:1386-7857(print) 1573-7543(Online)”, SCOPUS, WoS and SCI indexed with H Index 31, pp 1-11, IF 1.6, Jan  2019
+Weblink
+Book Chapter or Books  |  Published On : 23-12-2018
+Jhanavi J, Mamatha, Srilakshmi Gorur, Dr. M Dakshayini
+“Booking based Smart Parking Management System” published as chapter in Communications in Computer and Information Science Springer Book series, vol 808. Dec 2018, Springer, Singapore, DOI https://doi.org/10.1007/978-981-10-7635-0_24, print ISBN 978-981-10-7634-3, Online ISBN978-981-10-7635-0
+Weblink
+Conference  |  Published On : 23-02-2018
+Balaji Prabhu B V, M Dakshayini
+“Regression Based AGRO Forecasting Model”, International Conference On Emerging Technologies In Data Mining And Information Security (IEMIS2018)” and published in Springer AISC series, February 23rd to 25th, 2018, University of Engineering and Management, Kolkata, India, Secured Best paper Award, SCOPUS Indexed.
+Weblink
+Journal  |  Published On : 18-10-2016
+V Shubha Rao, M Dakshayini,
+“ Optmal Resource Reservation strategy for Constrained Networks using SDN approach for IoT applications " International Journal of Control Theory and Applications-IJCTA (SCOPUS Indexed),  volume 9 issue 22, pp 85-93, October 2016, SCI Indexed with the H-Index 9.
+Weblink
+Download Resume
+
+--- https://bmsce.ac.in/home/facultyProfile/156/Dr-Sandeep-Varma-N ---
+Name: Dr. Sandeep Varma N
+Designation: Associate Professor & HOD
+Qualification: B.Tech, M.Tech, Ph.D.
+Email: sandeep.mel@bmsce.ac.in
+Research Interests:
+
+About:
+Dr. Sandeep is currently working as Associate Professor in the Department of Machine Learning, B.M.S. College of Engineering.   He received his B. Tech degree in Information Technology from JNTU Hyderabad, Telangana, India in 2007. He received his M. Tech from Andhra University in 2009 and his Ph.D. in Computer Science and Systems Engineering from Andhra University in 2015. He also worked as JRF & SRF Fellowships from 2010 to 2013, Andhra University under DST SERB Project. Dr. Sandeep is a very active researcher and currently executing R&D sponsored projects of worth 52.17 Lakhs from Industry, Ministry of Education, Govt. of India & ARTPARK, IISc, in the fields of Neural Networks, Deep Learning and IOT.  His research interest include Formal Verification Techniques for security protocols, Data Engineering, Software Engineering and AI. He is a also Chapter Advisor to BMSCE IEEE Computer Society Chapter, Bangalore Section.
+
+Education:
+Ph.D. - Data Privacy
+Andhra University
+Passed Year: 2015 | Program Type: FullTime
+Masters - Software Engineering
+Andhra University
+Passed Year: 2009 | Program Type: FullTime
+Bachelors - Information Technology
+JNTU Hyderabad
+Passed Year: 2007 | Program Type: FullTime
+
+Selected Publications:
+Journal  |  Published On : 10-07-2026
+Chethan R, BV Rathish Kumar, Bandaru Mallikarjuna, Sandeep Varma N
+Chethan R, BV Rathish Kumar, Bandaru Mallikarjuna, Sandeep Varma N, “Physics-informed neural network modeling of ternary hybrid nanofluid flow over an inclined wavy surface”, International Journal of Numerical Methods for Heat & Fluid Flow, PP-1-25, Emarald Publishing Limited, Q1-Journal – Impact Factor 5.1 – Unpaid.
+Weblink
+Conference  |  Published On : 21-01-2026
+N Sandeep Varma, Sahay Siddharth, Bishnoi Vishesh, Gandhi Varsh, Dsouza Mathias Prajwal
+N. SandeepVarma, S. Sahay, V. Bishnoi, V. Gandhi and M. P. Dsouza, "Multimodal AI for Audio and Video Conversion for ISL Using Federated learning," 2025 IEEE North Karnataka Subsection Flagship International Conference (NKCon), pp. 1-6, doi: 10.1109/NKCon66957.2025.11345802, Hubballi, India, January 2026.
+Weblink
+Conference  |  Published On : 29-10-2024
+Ramesh, Rishab; Akarsh Thejasvi Raju M; Harsha Vardhan; Varma, Sandeep
+Fine-Tuning Large Language Models for Task Specific Data, 2024 2nd International Conference on Networking, Embedded and Wireless Systems (ICNEWS), Bangalore, India, 2024, pp. 1-6, doi: 10.1109/ICNEWS60873.2024.10730913.
+Weblink
+Conference  |  Published On : 10-07-2023
+Sandeep Varma N, Akash Venugopal, Ayush Sharma
+Crime Scene Analysis for News Headline Generation, 4th International Conference for Emerging Technology (INCET), IEEE, 2023
+Weblink
+Conference  |  Published On : 18-06-2023
+N Sandeep Varma, Vaishnavi Sinha, K Pradyumna Rahul
+Experimental Evaluation of Reinforcement Learning Algorithms, Proceedings of International Conference on Computational Intelligence and Data Engineering: ICCIDE 2022, IEEE, 2023.
+Weblink
+Conference  |  Published On : 13-06-2022
+Sandeep Varma N, Pradyumna Rahul K, Vaishnavi Sinha
+Data augmented Approach to Optimizing Asynchronous Actor-Critic Methods, 2022 IEEE International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)
+Weblink
+Conference  |  Published On : 22-12-2021
+Pushya D; Shreyas N; Shreya P; Sandeep Varma N
+FDMCA: A Novel Authentication Technique using Face Detection and Gaze-based Morse Code Entry, 2021 IEEE Mysore Sub Section International Conference (MysuruCon)
+Weblink
+Journal  |  Published On : 01-11-2021
+Ruksar Parveen, N Sandeep Varma
+Code quality improvement for Intel Windows Graphics Driver,  Global Transitions Proceedings, Volume 2, Issue 2, November 2021, Pages 273-281
+Weblink
+Journal  |  Published On : 01-11-2021
+RuksarParveenN. SandeepVarma
+Friend's recommendation on social media using different algorithms of machine learning, Global Transitions Proceedings Volume 2, Issue 2, November 2021, Pages 273-281
+Weblink
+Conference  |  Published On : 07-10-2020
+BV Ramya, N Sandeep Varma, R Indra
+Recommendations in social network using link prediction technique, 2020 IEEE International Conference on Smart Electronics and Communication (ICOSEC), pp.782-786
+Weblink
+Conference  |  Published On : 22-09-2020
+R Rohan, Sandeep Varma, M Sivaramakrishna
+Blockchain-Based Solution for Proof of Pick-up of a Physical Asset, 2020 IEEE International Conference on Mainstreaming Block Chain Implementation (ICOMBI), pp.1-7
+Weblink
+Journal  |  Published On : 12-09-2020
+Ashutosh Tiwari, Sandeep Varma
+Learning semantic Image attributes using Image recognition and knowledge graph embeddings,  arXiv preprint arXiv:2009.05812
+Weblink
+Journal  |  Published On : 08-06-2020
+Ashutosh Kumar Tiwari, Sandeep Varma Nadimpalli
+New Fusion Algorithm Provides an Alternative Approach to Robotic Path Planning, Information Engineering and Electronic Business, Vol.3, pp.1-7, MECS Press
+Weblink
+Journal  |  Published On : 09-11-2019
+Ashutosh Kumar Tiwari, Sandeep Varma Nadimpalli
+Augmented Random Search for Quadcopter Control: An alternative to Reinforcement Learning", International Journal of Information Technology and Computer Science(IJITCS), Vol.11, No.11, pp.24-33.
+Weblink
+Conference  |  Published On : 17-03-2019
+Mahith Madwesh, Sandeep Varma Nadimpalli
+Survey on Authentication Techniques for web applications,  Proceedings of Second International Conference on Emerging Trends In Science & Technologies For Engineering Systems (ICETSE-2019)
+Weblink
+Conference  |  Published On : 08-02-2019
+Suman Patil, Sandeep Varma Nadimpalli, Pavithra K. Yadav
+Email Authorship Attribution, International Conference on Innovations in Electronics and Communication Engineering, Vol.65, Pages 451-457, Springer (Book Chapter)
+Weblink
+Conference  |  Published On : 04-11-2018
+Rajalingam Raghu, N. Sandeep Varma
+Recent Findings in Intelligent Computing Techniques, Advances in Intelligent Systems and Computing 709, Springer (Book Chapter)
+Weblink
+Journal  |  Published On : 10-08-2016
+Sandeep Varma Nadimpalli, Valli Kumari Vatsavayi
+Verification in Privacy Preserving Data Publishing, Computing and Informatics 35 (5), 1160-1188 - SCI Publication
+Weblink
+
+--- https://bmsce.ac.in/home/facultyProfile/28/Dr-Gowrishankar ---
+Name: Dr. Gowrishankar
+Designation: Professor
+Qualification: B.E., M.Tech, Ph.D.
+Email: gowrishankar.cse@bmsce.ac.in
+Research Interests:
+
+About:
+Joined BMSCE as Lecturer in  Department of Computer Science & Engineering (CS & E) in 1997, sponsored to M.Tech in CS& E in the year 1999 and Completed M.Tech with  University distinction  & secured University Rank (3rd Rank). In the year 2004, selected as Assistant Professor through Direct recruitment. Awarded Ph.D Degree From Visvesvarya Technological university (VTU) for the research work “Intelligent Vertical Handoff Mechanism for Interworking of HeterogeneousMobile Networks for Pervasive Computing” in the year 2009. Promoted as Professor in computer Science Department through direct recruitment during 2009. Served as Head of the Department for CS &E and Information Science & Engineering (IS & E) for the total period of 8 Years. During my tenure as Head of the Department of computer science & Engineering the Department Under graduate Program accredited by National Board of Accreditation (NBA) under Tier-1 Format as per Washington Accord. I was instrumental in starting  VTU Research center at Department CS & E. Served as member of Academic Council of BMSCE for three terms, Chairman, Board of Studies (BoS) for CS & E and IS & E cluster at BMSCE for two terms and Chairman, Board of Examiner (BoE)  for CS & E and IS & E for one term. Guided two students leading to the Ph.D. Degree. Served as Visiting Professor for Department of Computer Science, University of Alabama, Huntsville (UAH) in 2015. Published morethan 45 Research papers in Internationally reputed Journals & conferences.  Worked as Coordinator Campus wide Network in TEQIP –I to design and implement Campus wide Network at BMSCE. Served as Nodal officer (Academic) for TEQIP –II.  Currently working as Professor at CS& E and Chief coordinator for Data Center & Campus wide Network.
+
+Education:
+Ph.D - Wireless Networks
+B.M.S. College of Engineering, Visvesvarya Technological University
+Passed Year: 2008 | Program Type: PartTime
+M.Tech - Computer Science &  Engineering
+B.M.S. College of Engineering, Visvesvarya Technological University
+Passed Year: 2001 | Program Type: FullTime
+B.E  - Computer Science &  Engineering
+Malnad College of Engineering, Mysore University
+Passed Year: 1996 | Program Type: FullTime
+
+Selected Publications:
+Journal  |  Published On : 01-08-2014
+Mahesh G, Yeshwanth S and Gowrishankar
+Fuzzy Logic Based Call Admission Control for Next Generation Wireless Networks
+
+--- https://bmsce.ac.in/home/facultyProfile/438/Dr-Monika-Puttaramaiah ---
+Name: Dr. Monika Puttaramaiah
+Designation: Associate Professor
+Qualification: BE(CSE), M.Tech(CSE), Ph.D(CSE-ML)
+Email: monika.mel@bmsce.ac.in
+Research Interests:
+
+About:
+Dr. Monika is currently serving as an Associate Professor in the Department of AI&ML at BMS College of Engineering, where she is also heading the prestigious BSN Center of Excellence in AI and ML and social media team - Vahini at institution level . With a Ph.D. in Computer Science domain specialized in AI&ML and over 19+ years of experience, she has combined her technical expertise and academic passion to nurture the next generation of engineers and innovators. Her journey is one of excellence and commitment, beginning as a Software Engineer at Birlasoft and transitioning into academia, where she has made remarkable strides. Dr. Monika has taught more than 18 courses in Computer Science and AI&ML and has guided countless projects at both undergraduate and postgraduate levels. Her work is recognized not only through the numerous workshops and conferences she has organized but also through her research, which has been published in over 30+ internationally renowned journals and conferences. She holds 5 Indian patents published  and 1 Australian patent in AI and ML, showcasing her innovative approach to solving complex problems. Moreover, Dr. Monika’s contributions go beyond academia—she actively collaborates with consultancies, works as a reviewer for prestigious journals, and is a sought-after speaker at technical symposiums and industry webinars. Dr. Monika is also an esteemed member of global organizations like IEEE, ACM, ISTE and IAENG, constantly pushing the boundaries of what is possible in the field of AI and ML.
+
+Education:
+Ph. D - Computer Science and Engineering (Machine Learning)
+RNSIT / VTU
+Passed Year: 2020 | Program Type: PartTime
+M. Tech - Computer Science and Engineering
+RNSIT / VTU
+Passed Year: 2011 | Program Type: FullTime
+BE - Computer Science and Engineering
+BNMIT / VTU
+Passed Year: 2007 | Program Type: FullTime
+
+Selected Publications:
+Journal  |  Published On : 21-05-2026
+K R, Shylaja, Raj, Kalyan, G, Shobha, S, Malini, Puttaramaiah, Monika, Radhika, Neelam Patil and Appaji, Abhishek
+"Biogenic credibility of zirconium nanoparticles: boosting growth and battling pathogens" Open Chemistry, Scopus Indexed Journal, vol. 24, no. 1, 2026, pp. 20250246, SJR ranking: 0.416, Rating: Q3
+Weblink
+Journal  |  Published On : 25-08-2025
+Gowrishankar Subrahmanyam, Monika Puttaramaiah, Gauri Kalnoor, Prakash B Metre
+“Joint Radio Resource Management Soft computing Technique for 5G and Beyond 5G Wireless Networks”, Procedia Computer Science, Scopus Indexed Journal, vol. 265, issue , page 17-24, ISSN: 1877-0509, DOI: 10.1016/j.procs.2025.07.151,  SJR Ranking: 0.471, August 2025, Rating: Q2
+Weblink
+Conference  |  Published On : 28-04-2025
+M. Puttaramaiah, P. Supriya, A. P. Kulkarni, V. Likith Chowdary, S. Pavan Kumar and Rishi
+Weed and Crop Detection using Deep Neural Networks," 2025 International Conference on Knowledge Engineering and Communication Systems (ICKECS), Chickballapur, India, April 28-29, 2025, IEEE, pp. 1-6, DOI: 10.1109/ICKECS65700.2025.11034802.
+Weblink
+Journal  |  Published On : 23-12-2023
+Monika P, Luke Abbatessa, Dr. Gowrishankar, Madhu Reddiboina, Vaishak Bhuvan M R
+“Optimizing Lettuce Cultivation: Nutrient And Disease Monitoring In Vertical Farms”, International Journal of Applied Engineering & Technology, Scopus Indexed Journal, vol. 5, issue 4, page 4803-4812, ISSN: 2633-4828,  Impact Factor: 0.313, December, 2023. Rating: Q4
+Weblink
+Conference  |  Published On : 29-12-2022
+P. C. Hiremath, R. G T, Monika. P, C. Kulkarni and V. Bhuvan M R
+"Performance Evaluation of ML Techniques for Trust-Based Employee Behavioural Classification for Access Control in Organizations," 2022 IEEE International Conference on Knowledge Engineering and Communication Systems (ICKES), Chickballapur, India, 28-29 Dec, 2022, pp. 1-7, DOI: 10.1109/ICKECS56523.2022.10060527
+Weblink
+Journal  |  Published On : 22-09-2022
+Monika P, Raju G T
+“Integration of Healthcare domain Ontologies using Neuro-Fuzzy Networks”, NeuroQuantology, Scopus Indexed Journal, vol. 20, issue 11, page 8790-8798, ISSN: 1303-5150, DOI: 10.48047/nq.2022.20.11.NQ66874, Impact Factor: 0.29, September 22, 2022. Rating: Q4
+Weblink
+Journal  |  Published On : 22-06-2022
+Edeh Michael Onyema, Khalid K. Almuzaini, Fergus Uchenna Onu, Devvret Verma, Ugboaja Samuel Gregory, Monika Puttaramaiah, Rockson Kwasi Afriyie
+"Prospects and Challenges of Using Machine Learning for Academic Forecasting", Computational Intelligence and Neuroscience, vol. 2022, Article ID 5624475, 7 pages, Impact Factor: 2.3, June 2022. https://doi.org/10.1155/2022/5624475 Rating: Q2
+Weblink
+Journal  |  Published On : 01-06-2022
+Chaitanya Kulkarni, P Monika, Preeti B, Shruthi S
+“A novel framework for automatic caption and audio generation “, Materials Today: Proceedings, Science Direct (Elsevier – Scopus Indexed)and CPCI (Conference Proceedings Citation Index, Clarivate) Indexed, ISSN: 2214-7853, DOI: 10.1016/j.matpr.2022.05.380. Rating: Q2
+Weblink
+Journal  |  Published On : 16-04-2022
+Monika P, Chaitanya Kulkarni, Harish Kumar N, Shruthi S, Vani V
+"Machine learning approaches for sentiment analysis A survey
+Machine Learning Approaches for Sentiment Analysis: A Survey”, International Journal of Health Sciences (IJHS), Scopus indexed, vol. 6, issue S4, page 1286-1300, ISSN: 2550-6978, DOI: 10.53730/ijhs.v6nS4.6119, Rating: Q4
+Weblink
+Book Chapter or Books  |  Published On : 01-01-2022
+Chaitanya Kulkarni, P. Monika, S. Shruthi, M. S. Deepak Bharadwaj, D. Uday
+"COVID-19 Fake News Detection Using GloVe and Bi-LSTM",  International Conference on Sustainable Expert Systems,  Springer LN Series, Print ISSN: 978-981-16-7656-7, Online ISSN:  978-981-16-7657-4, vol 351, DOI: 10.1007/978-981-16-7657-4_5
+Weblink
+Journal  |  Published On : 31-12-2019
+Monika P, Raju G T
+“Integration of Healthcare Ontologies at Schema Level using Customized Metadata”, International Journal of Innovative Technology and Exploring Engineering (IJITEE), Elsevier Scopus Indexed Journal, vol. 9, issue 2S, ISSN: 2278-3075, DOI: 10.35940/ijitee.B1084.1292S19. Rating: Q4
+Weblink
+Journal  |  Published On : 31-12-2019
+Monika P, Raju G T
+"Integration of Healthcare domain Ontologies using Bayesian Networks”, International Journal of Innovative Technology and Exploring Engineering (IJITEE), Elsevier Scopus Indexed Journal, vol. 9, issue 2S, ISSN: 2278-3075, DOI: 10.35940/ijitee.B1028.1292S19, Rating: Q4
+Weblink
+Book Chapter or Books  |  Published On : 25-09-2019
+Monika P, Raju G T
+“Effective Model Integration Algorithm for Improving Prediction Accuracy of Healthcare Ontology”, 3rd International Conference On Computational Vision and Bio Inspired Computing (ICCVBIC), Indexed in Scopus, Google Scholar and SpringerLink- LN series, ISSN: 978-3-030-37218-7
+Weblink
+Journal  |  Published On : 10-09-2019
+Monika P, Raju G T
+"Data Pre-Processing and Customized Onto-Graph Construction for Knowledge Extraction in Healthcare Domain of Semantic Web", International Journal of Innovative Technology and Exploring Engineering (IJITEE), Elsevier Scopus Indexed Journal, ISSN: 2278-3075, vol. 8, issue: 11, pp. 712-719, DOI: 10.35940/ijitee.K1423.0981119, Impact factor 5.54, Rating: Q4
+Weblink
+Conference  |  Published On : 02-07-2019
+DendiGayathri Reddy, Emmidi Naga Hemanth Kumar, DesireddyLohithSaiCharan Reddy, Monika P
+"Integrated Machine Learning Model for Prediction of Lung Cancer Stages from Textual data using Ensemble Method”, 1st International Conference on Advances in Information Technology (ICAIT), IEEE
+Weblink
+Book Chapter or Books  |  Published On : 21-09-2017
+Monika P, Vinutha M R, Srihari B N, Harikrishna S, Sumangala S M, G T Raju
+"Medical Diagnosis Guidance Using Semantic Web”, International Conference On Computational Vision and Bio Inspired Computing (ICCVBIC), Indexed in SCOPUS, Google Scholar and SpringerLink-LN series, LNCVB, vol.28, ISSN: 978-3-319-71767-8, pp. 174-185, DOI: 10.1007/978-3-319-71767-8_14
+Weblink
+Journal  |  Published On : 26-12-2015
+Monika P, Raju G T
+"Semantic Web with Ontology Agents for Improved Search Results - A Survey", Scopus indexed - International Journal of Applied Engineering Research (IJAER), ISSN 0973-4562, vol. 10, issue: 86, pp. 264-270. Rating: Q2
+Weblink

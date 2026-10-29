@@ -1,0 +1,95 @@
+Source: https://bmsce.ac.in/home/facultyProfile/135/Dr-M-Dakshayini
+============================================================
+
+Name: Dr. M Dakshayini
+Designation: Professor & HOD
+Qualification: Ph.D.
+Email: dakshayini.ise@bmsce.ac.in
+Research Interests:
+
+About:
+Dr. M Dakshayini, holding M.E degree with FCD, awarded Ph.D in the area of computer networks in 2010. Presently she is working as Professor and Head in the Department of Information Science and engineering, B M S College of Engineering[BMSCE], Bengaluru, Karnataka, India.
+She has 26 years of teaching experience, 5 research candidates have been awarded with Ph.D degree under her guidance and presently guiding 1 research scholar towards research and Ph.D. in the area of Computer communications, Algorithms, Cloud computing, Ad-hoc Networks, IoT and Data Sciences. She has delivered expert lectures at various Seminars/Workshops. She is BOS/BOE member for various Institutions. She is a NBA Evaluator appointed from NBA, India.
+She has more than 50 International peer reviewed Journal Publications, 26 International conference and 5 national conference Publications to her credit. She has published a patent for the research work “Co-operative Proxy Servers Architecture for Video on Demand and Webservers using Stochastic Model based Client Request Management Approaches to achieve reduced Client Waiting Time Reference number [3390/CHE/2010A].
+
+Education:
+Ph.D. - Computer Science and Engineering
+Dr.MGR University
+Passed Year: 2010 | Program Type: PartTime
+M.E - Computer Science and Engineering
+B.M.S.C.E/Bangalore University
+Passed Year: 2000 | Program Type: FullTime
+B.E - Computer Science and Engineering
+S J C I T/Bangalore University
+Passed Year: 1993 | Program Type: FullTime
+
+Selected Publications:
+Journal  |  Published On : 02-07-2026
+T.S., Shobana, T. S. , M., Dakshayini, M. , K.R., Venugopal, Kala R.
+Shobana T S, M Dakshayini, & K R Venugopal. (2026). Review on Contactless Vital Sign Monitoring: Techniques and Applications of Remote Photoplethysmography and Photoplethysmography for Remote Health Monitoring. International Journal of Computer Information Systems and Industrial Management Applications, 18(4s), 1376–1383. Scopus indexed (Q1), https://doi.org/10.70917/ijcisim-2026-2643
+Weblink
+Journal  |  Published On : 18-06-2026
+Shobana T S, M Dakshayini, Venugopal K R
+Shobana T. S., M. Dakshayini, Venugopal K. R., “Non-Contact Vital Signs Estimation MI and DI Techniques: A Comprehensive Survey,” Journal of Intelligent Decision Making and Information Science, eISSN: 3079-0875, Volume 3, pp. 317–345 (2026), Scopus indexed (Q1), www.jidmis.org, DOI: https://doi.org/10.59543/jidmis.v3.1396
+Weblink
+Conference  |  Published On : 01-05-2026
+M. Dakshayini
+3D FixGen: An AI-Assisted Voxel-Morphological Framework for  Patient-Specific Prosthetic Design and Additive Manufacturing
+Weblink
+Journal  |  Published On : 12-03-2026
+Rashmi R, M Dakshayini
+Rashmi R, M. Dakshayini, "A comprehensive survey on digital twin technology: concepts, frameworks and industrial use-cases", Scientific Culture, ISSN 2408-0071, Vol 12, Issue 5 Part 1, PP 412-426, 2026, DOI:10.5281/zenodo.20720718.
+Weblink
+Conference  |  Published On : 29-11-2024
+Daivik Rao; P Yatish Sriram; Dakshayani M; Aniket Gupta
+ImageCraft - Text To Image Synthesis
+Weblink
+Journal  |  Published On : 17-05-2024
+A., Varshney, Abhilasha , M., Dakshayini, M. , H.L., Gururaj, H. L. , Y., Hu, Yuchen
+Varshney, A., Dakshayini, M., Gururaj, H.L. et al. Synchronization and implementation of real-time traffic signal optimization regulator. Multimed Tools Appl 84, 10725–10745 (2025). https://doi.org/10.1007/s11042-024-18956-9
+Weblink
+Conference  |  Published On : 22-04-2024
+M Dakshayini; H P Sushma; S Spoorthi
+Blockchain Based Traceability System for Food Safety
+
+DOI: 10.1109/ICETCS61022.2024.10543664
+Weblink
+Journal  |  Published On : 06-03-2021
+M Dakshayini, R Rashmi
+"Hierarchical cooperative-peers fog caching strategy to improve the performance of content centric networking “, in the Int. Journal “Multimedia Tools and Applications”, SCOPUS and WoS-SCIE Indexed Q2 Journal, IF 2.313, ISSN/eISSN 1380-7501 / 1573-7721, DOI: 10.1007/s11042-021-10733-2.
+Weblink
+Book Chapter or Books  |  Published On : 21-12-2020
+N. S. Akhilesh, M. N. Aniruddha, Ghosh Anirban, M. Dakshayini
+“Government Document Approval and Management Using Blockchain“, published as a chapter in Springer Lecture Notes on Data Engineering and Communications Technologies book series (LNDECT), volume 56, pp 387-40, SCOPUS Indexed.
+Weblink
+Journal  |  Published On : 30-10-2020
+Balaji Prabhu B V, M Dakshayini
+"Computational Performance Analysis of Neural Network and Regression Models in Forecasting the Societal Demand for Agricultural Food Harvests." International Journal of Grid and High Performance Computing (IJGHPC), Vol 12, Issue 4, Oct-Dec 2020 , pp 35-47, ISSN 1938-0259, eISSN: 1938-0267, WOS, SCOPUS and ESCI Indexed.
+Weblink
+Journal  |  Published On : 20-08-2020
+Naveen Kumar S, M Dakshayini, Raghavendra R Biradar, Rajashekargouda G S,
+“Blockchain Based Security Solution for Medical Data “, International Journal of Innovative Technology and Exploring Engineering (IJITEE), SCOPUS Indexed with H Index 40 and Q4 Journal’, Volume-9 Issue-10, August 2020, Page No. 283-287, ISSN: 2278–3075 (Online),.
+Journal  |  Published On : 18-08-2020
+Rajashekhar Gouda, Naveen Kumar S, Raghavendra R Biradar, M Dakshayini,
+“Blockchain in Pharmaceutical Sector“, Wutan Huatan Jisuan Jishu,  ISSN NO:1001-1749, August 2020, Vol 16, Issue 8,  SCOPUS indexed with H index 7, pp 41-49.
+Journal  |  Published On : 11-04-2020
+Balaji B V,  M Dakshayini
+“An Effective Multiple Linear Regression based forecasting model for Demand based Constructive farming“, IGI-Global International Journal of Web based learning and Teaching Technologies(IJWLTT), IGI Global, vol. 15(2), pages 1-18, April 2020, SCOPUS indexed, DOI: 10.4018/IJWLTT.2020040101.
+Weblink
+Journal  |  Published On : 10-01-2019
+Rekha P M, Dr. M Dakshayini,
+"Efficient Task Allocation Approach using Genetic Algorithm for Cloud Environment", Springer Journal “Cluster Computing: The Journal of Networks, Software Tools and Applications, ISSN:1386-7857(print) 1573-7543(Online)”, SCOPUS, WoS and SCI indexed with H Index 31, pp 1-11, IF 1.6, Jan  2019
+Weblink
+Book Chapter or Books  |  Published On : 23-12-2018
+Jhanavi J, Mamatha, Srilakshmi Gorur, Dr. M Dakshayini
+“Booking based Smart Parking Management System” published as chapter in Communications in Computer and Information Science Springer Book series, vol 808. Dec 2018, Springer, Singapore, DOI https://doi.org/10.1007/978-981-10-7635-0_24, print ISBN 978-981-10-7634-3, Online ISBN978-981-10-7635-0
+Weblink
+Conference  |  Published On : 23-02-2018
+Balaji Prabhu B V, M Dakshayini
+“Regression Based AGRO Forecasting Model”, International Conference On Emerging Technologies In Data Mining And Information Security (IEMIS2018)” and published in Springer AISC series, February 23rd to 25th, 2018, University of Engineering and Management, Kolkata, India, Secured Best paper Award, SCOPUS Indexed.
+Weblink
+Journal  |  Published On : 18-10-2016
+V Shubha Rao, M Dakshayini,
+“ Optmal Resource Reservation strategy for Constrained Networks using SDN approach for IoT applications " International Journal of Control Theory and Applications-IJCTA (SCOPUS Indexed),  volume 9 issue 22, pp 85-93, October 2016, SCI Indexed with the H-Index 9.
+Weblink
+Download Resume
