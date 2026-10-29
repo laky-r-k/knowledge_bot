@@ -17,7 +17,7 @@ from chat_bot.CONFIG.config import GEMINI_API_KEY
 
 
 class GeminiKGBuilder(BaseKGBuilder):
-    def __init__(self, model_name: str = "models/gemini-2.5-flash-lite"):
+    def __init__(self, model_name: str = "models/gemini-3.5-flash-lite"):
         genai.configure(api_key=GEMINI_API_KEY)
         self.model = genai.GenerativeModel(model_name)
         self.graph = nx.DiGraph()

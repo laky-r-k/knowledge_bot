@@ -23,7 +23,7 @@ console = Console()
 
 # Configure LLM Judge
 genai.configure(api_key=GEMINI_API_KEY)
-judge_model = genai.GenerativeModel("models/gemini-2.5-flash-lite")
+judge_model = genai.GenerativeModel("models/gemini-3.5-flash-lite")
 
 # Benchmark Test Suite based on scraped BMSCE faculty facts
 BENCHMARK_TESTS = [

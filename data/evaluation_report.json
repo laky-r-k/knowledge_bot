@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "query": "Who is the Head of Department of Information Science and Engineering at BMSCE?",
+    "ground_truth": "Dr. M Dakshayini is the Professor and Head of Department (HOD) of Information Science and Engineering.",
+    "baseline": {
+      "answer": "The Head of the Department (HoD) of Information Science and Engineering (ISE) at BMS College of Engineering (BMSCE) is **Dr. P. Jayarekha**.",
+      "scores": {
+        "accuracy": 1,
+        "faithfulness": 5,
+        "relevance": 5,
+        "reason": "The candidate answer provides an incorrect Head of Department compared to the ground truth, which states Dr. M Dakshayini holds the position."
+      },
+      "latency": 25.61
+    },
+    "with_kg": {
+      "answer": "Based on the department faculty directory, the Head of Department (HOD) of Information Science and Engineering at BMSCE is **Dr. M Dakshayini**. \n\nHere are her details:\n* **Designation:** Professor & HOD\n* **Email:** dakshayini.ise@bmsce.ac.in",
+      "scores": {
+        "accuracy": 5,
+        "faithfulness": 5,
+        "relevance": 5,
+        "reason": "The candidate correctly identifies Dr. M Dakshayini as the Head of Department for ISE at BMSCE, matching the ground truth while providing helpful supplemental details."
+      },
+      "retrieval_hit": true,
+      "latency": 38.97
+    }
+  },
+  {
+    "id": 2,
+    "query": "What is Dr. Gowrishankar's email address and current designation?",
+    "ground_truth": "Dr. Gowrishankar's email is gowrishankar.cse@bmsce.ac.in and his designation is Professor.",
+    "baseline": {
+      "answer": "I do not have access to real-time personal directories or private contact information. Therefore, I cannot provide Dr. Gowrishankar's current email address or designation. You may want to check his official institutional or university profile for the most up-to-date information.",
+      "scores": {
+        "accuracy": 1,
+        "faithfulness": 5,
+        "relevance": 1,
+        "reason": "The candidate answer fails to provide the requested information present in the ground truth, claiming it lacks access instead."
+      },
+      "latency": 15.97
+    },
+    "with_kg": {
+      "answer": "Based on the department faculty directory and knowledge graph, here are the details for Dr. Gowrishankar:\n\n* **Current Designation:** Professor (and currently serving as the Chief Coordinator for Data Center & Campus wide Network)\n* **Email Address:** gowrishankar.cse@bmsce.ac.in",
+      "scores": {
+        "accuracy": 5,
+        "faithfulness": 5,
+        "relevance": 5,
+        "reason": "The candidate answer accurately provides the correct email and designation as stated in the ground truth, while adding a minor, verifiable detail without hallucinating false core facts."
+      },
+      "retrieval_hit": true,
+      "latency": 42.86
+    }
+  },
+  {
+    "id": 3,
+    "query": "Who is the HOD of the Machine Learning department at BMSCE?",
+    "ground_truth": "Dr. Sandeep Varma N is the Associate Professor and HOD of the Machine Learning department.",
+    "baseline": {
+      "answer": "As of my last knowledge update (January 2025), the **Department of Artificial Intelligence and Machine Learning (AIML)** at BMS College of Engineering (BMSCE), Bangalore, is headed by **Dr. J. Ramesh**. \n\n*(Note: Depending on whether the institution has a standalone \"Machine Learning\" department or if it falls under AIML/CSE, leadership roles may occasionally shift. It is always best to check the official BMSCE website for the most current academic year's faculty directory.)*",
+      "scores": {
+        "accuracy": 1,
+        "faithfulness": 1,
+        "relevance": 1,
+        "reason": "Evaluation error: Invalid control character at: line 1 column 194 (char 193)"
+      },
+      "latency": 23.13
+    },
+    "with_kg": {
+      "answer": "Based on the department faculty directory, the Head of Department (HOD) of Machine Learning at BMSCE is **Dr. Sandeep Varma N**.\n\nHere are his details:\n* **Designation:** Associate Professor & HOD\n* **Department:** Machine Learning\n* **Email:** sandeep.mel@bmsce.ac.in",
+      "scores": {
+        "accuracy": 5,
+        "faithfulness": 5,
+        "relevance": 5,
+        "reason": "The candidate correctly identifies Dr. Sandeep Varma N as the HOD of the Machine Learning department, matching the ground truth while providing accurate supplementary details."
+      },
+      "retrieval_hit": true,
+      "latency": 47.04
+    }
+  },
+  {
+    "id": 4,
+    "query": "What is Dr. Monika Puttaramaiah's designation and department?",
+    "ground_truth": "Dr. Monika Puttaramaiah is an Associate Professor in the Machine Learning / AI&ML department at BMSCE.",
+    "baseline": {
+      "answer": "I do not have access to specific information regarding Dr. Monika Puttaramaiah's designation and department. You may want to check her official faculty profile on her university's website or a professional networking site like LinkedIn for the most up-to-date details.",
+      "scores": {
+        "accuracy": 1,
+        "faithfulness": 5,
+        "relevance": 2,
+        "reason": "The candidate answer fails to provide the correct facts due to a lack of knowledge, but it does not contain hallucinations and attempts to address the query by suggesting where to find the information."
+      },
+      "latency": 14.64
+    },
+    "with_kg": {
+      "answer": "Based on the department faculty directory, **Dr. Monika Puttaramaiah** has the following details:\n\n* **Designation:** Associate Professor\n* **Department:** AI&ML (Artificial Intelligence and Machine Learning)\n* **Email:** monika.mel@bmsce.ac.in",
+      "scores": {
+        "accuracy": 5,
+        "faithfulness": 5,
+        "relevance": 5,
+        "reason": "The candidate answer accurately and directly states Dr. Monika Puttaramaiah's correct designation and department matching the ground truth."
+      },
+      "retrieval_hit": true,
+      "latency": 18.74
+    }
+  },
+  {
+    "id": 5,
+    "query": "Where did Dr. Gowrishankar receive his PhD from and in which year?",
+    "ground_truth": "Dr. Gowrishankar received his PhD from Visvesvaraya Technological University (VTU) in 2009.",
+    "baseline": {
+      "answer": "I do not have access to specific biographical information about a \"Dr. Gowrishankar\" without further context (such as his full name, field of study, or institution), as this name could refer to multiple individuals. Could you please specify which Dr. Gowrishankar you are referring to?",
+      "scores": {
+        "accuracy": 1,
+        "faithfulness": 5,
+        "relevance": 1,
+        "reason": "The model failed to provide the correct PhD details because it lacked context, missing both the institution and the year found in the ground truth."
+      },
+      "latency": 21.8
+    },
+    "with_kg": {
+      "answer": "Based on the department faculty directory and knowledge graph, **Dr. Gowrishankar** received his Ph.D. with the following details:\n\n* **Institution / Awarded By:** Visvesvaraya Technological University (VTU), with his Ph.D. research carried out at B.M.S. College of Engineering.\n* **Year Passed / Awarded:** He passed his Ph.D. in **2008**, and the degree was officially awarded in **2009**. \n* **Field / Specialization:** Wireless Networks (with his thesis titled *\"Intelligent Vertical Handoff Mechanism for Interworking of Heterogeneous Mobile Networks for Pervasive Computing\"*).",
+      "scores": {
+        "accuracy": 5,
+        "faithfulness": 5,
+        "relevance": 5,
+        "reason": "The candidate answer correctly identifies Visvesvaraya Technological University (VTU) and the year 2009 as requested by the ground truth, while providing additional accurate context."
+      },
+      "retrieval_hit": true,
+      "latency": 33.47
+    }
+  },
+  {
+    "id": 6,
+    "query": "What are Dr. M Dakshayini's primary research interests?",
+    "ground_truth": "Dr. M Dakshayini's research interests include Computer Networks, Algorithms, Cloud computing, Ad-hoc Networks, IoT, Data Analytics, and Blockchain Technology.",
+    "baseline": {
+      "answer": "I do not have access to real-time information or a specific database regarding \"Dr. M Dakshayini\" and her academic profile. Could you please provide more context or specify her field of study or institution?",
+      "scores": {
+        "accuracy": 1,
+        "faithfulness": 5,
+        "relevance": 1,
+        "reason": "The model failed to provide the correct research interests from the ground truth, instead stating it lacked the information."
+      },
+      "latency": 13.53
+    },
+    "with_kg": {
+      "answer": "Based on the department faculty directory, Dr. M Dakshayini's primary research interests include:\n\n* **Algorithms**\n* **Cloud Computing**\n* **IoT (Internet of Things)**\n* **Computer Networks** (along with her Ph.D. specialization in computer networks)\n* **Data Sciences**\n* **Ad-hoc Networks**\n* **Computer Communications**",
+      "scores": {
+        "accuracy": 5,
+        "faithfulness": 5,
+        "relevance": 5,
+        "reason": "The candidate answer accurately lists all of Dr. M Dakshayini's primary research interests as stated in the ground truth, along with minor closely related academic specializations, maintaining high faithfulness and direct relevance."
+      },
+      "retrieval_hit": true,
+      "latency": 39.01
+    }
+  }
+]

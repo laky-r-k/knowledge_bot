@@ -22,7 +22,7 @@ def safe_generate_content(model, prompt, retries=3, delay=8):
             raise
 
 class GeminiChatBot(CHATBOT):
-    def __init__(self, model_name: str = "models/gemini-2.5-flash-lite", kg_builder: Optional[object] = None):
+    def __init__(self, model_name: str = "models/gemini-3.5-flash-lite", kg_builder: Optional[object] = None):
         super().__init__()
         genai.configure(api_key=GEMINI_API_KEY)
         self.model = genai.GenerativeModel(model_name)
