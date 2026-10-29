@@ -17,7 +17,7 @@ from chat_bot.CONFIG.config import GEMINI_API_KEY
 
 
 class GeminiKGBuilder(BaseKGBuilder):
-    def __init__(self, model_name: str = "models/gemini-2.5-flash"):
+    def __init__(self, model_name: str = "models/gemini-2.5-flash-lite"):
         genai.configure(api_key=GEMINI_API_KEY)
         self.model = genai.GenerativeModel(model_name)
         self.graph = nx.DiGraph()
@@ -102,13 +102,22 @@ JSON Output:"""
         return self.graph
 
     def search(self, query: str) -> List[Tuple[str, str, str]]:
-        """Search triples by keyword matching on subject, predicate, or object."""
+        """Search triples with 1-hop entity expansion for connected attributes."""
         keyword = query.lower()
-        matches = [
+        direct_matches = [
             t for t in self.triples
             if keyword in t[0].lower() or keyword in t[1].lower() or keyword in t[2].lower()
         ]
-        return matches
+
+        # 1-hop graph expansion: For any faculty subject matched, include core profile attributes
+        matched_subjects = {t[0] for t in direct_matches if any(prefix in t[0].lower() for prefix in ["dr.", "prof"])}
+        expanded = set(direct_matches)
+        for s in matched_subjects:
+            for t in self.triples:
+                if t[0] == s and t[1] in ["designation", "department", "email", "full_name"]:
+                    expanded.add(t)
+
+        return list(expanded)
 
     def to_prompt_text(self, triples: List[Tuple[str, str, str]]) -> str:
         """Convert triples into readable text for LLM prompts."""

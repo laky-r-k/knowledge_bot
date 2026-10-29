@@ -1,13 +1,28 @@
 # chatbot/gemini_chatbot.py
 
+import time
+from typing import Optional, List, Dict
 import google.generativeai as genai
+from google.api_core.exceptions import ResourceExhausted
 from chat_bot.base import CHATBOT
 from chat_bot.CONFIG.config import GEMINI_API_KEY
-from typing import Optional, List, Dict
 from langchain_core.runnables import RunnableLambda, RunnableMap
 
+def safe_generate_content(model, prompt, retries=3, delay=8):
+    """Generates content with automatic exponential backoff for free-tier rate limits."""
+    for attempt in range(retries):
+        try:
+            return model.generate_content(prompt)
+        except ResourceExhausted:
+            if attempt < retries - 1:
+                time.sleep(delay * (attempt + 1))
+            else:
+                raise
+        except Exception:
+            raise
+
 class GeminiChatBot(CHATBOT):
-    def __init__(self, model_name: str = "models/gemini-2.5-flash", kg_builder: Optional[object] = None):
+    def __init__(self, model_name: str = "models/gemini-2.5-flash-lite", kg_builder: Optional[object] = None):
         super().__init__()
         genai.configure(api_key=GEMINI_API_KEY)
         self.model = genai.GenerativeModel(model_name)
@@ -26,7 +41,7 @@ class GeminiChatBot(CHATBOT):
             return self.rag_chain.invoke(query)
         else:
             prompt = f"{context}\n\nUser: {query}\nBot:"
-            response = self.model.generate_content(prompt)
+            response = safe_generate_content(self.model, prompt)
             return response.text.strip()
 
     def extract_keywords(self, input_dict: Dict) -> Dict:
@@ -38,7 +53,7 @@ Query: {query}
 Keywords:"""
 
         try:
-            response = self.model.generate_content(prompt)
+            response = safe_generate_content(self.model, prompt)
             keywords = [kw.strip() for kw in response.text.strip().split(",") if kw.strip()]
         except Exception as e:
             keywords = []
@@ -79,7 +94,7 @@ Bot:"""
 
 
         try:
-            response = self.model.generate_content(prompt)
+            response = safe_generate_content(self.model, prompt)
             answer = response.text.strip()
         except Exception as e:
             answer = f"[LLM Error] {e}"
