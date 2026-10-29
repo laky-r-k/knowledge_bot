@@ -1,7 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
-from base import BaseScraper
+try:
+    from scaper_crawler.base import BaseScraper
+except ImportError:
+    from base import BaseScraper
 import os
 import time
 from typing import List, Tuple
@@ -92,10 +95,10 @@ class MosdacScraper(BaseScraper):
 # 🔗 PUT YOUR FACULTY PAGE URLs HERE
 # ============================================================
 FACULTY_URLS = [
-    # "https://yourcollege.edu/faculty/professor-1",
-    # "https://yourcollege.edu/faculty/professor-2",
-    # "https://yourcollege.edu/faculty/professor-3",
-    # "https://yourcollege.edu/faculty/professor-4",
+    "https://bmsce.ac.in/home/facultyProfile/135/Dr-M-Dakshayini",
+    "https://bmsce.ac.in/home/facultyProfile/156/Dr-Sandeep-Varma-N",
+    "https://bmsce.ac.in/home/facultyProfile/28/Dr-Gowrishankar",
+    "https://bmsce.ac.in/home/facultyProfile/438/Dr-Monika-Puttaramaiah",
 ]
 
 if __name__ == "__main__":
